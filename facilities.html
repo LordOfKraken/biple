@@ -1,36 +1,38 @@
 ---
 layout: page
-title: Facilities
+title: Visite
 ---
 
-<p>
-  {{ site.data.facilities.intro }}
-</p>
+{{site.data.facilities.intro}}
 
+<h2>Pavia</h2>
 <div class="section">
-  <h2>Science Facilities</h2>
-
-  {% for item in site.data.facilities.science %}
+  {% for item in site.data.facilities.pavia %}
     {% assign col = forloop.index0 | modulo:2 %}
     {% if col == 0 %}
       <div class="row">
     {% endif %}
       <div class="col s12 m6">
-        <div class="card">
+        <div class="card" id='{{item.id}}'>
           <div class="card-image">
-    	       <img src="{{ site.url}}/{{ item.img }}">
+      <!--    <div class="slider">
+              <ul class="slides">
+                {% for item2 in item.slideshow %}
+                <li>
+                  <img src="{{ site.url}}/{{ item2.slide }}">
+                </li>
+                {% endfor %}
+              </ul>
+            </div> -->
+             <img src="{{ site.url}}/{{ item.img }}">
           </div>
           <div class="card-content">
     	       <span class="card-title grey-text text-darken-4">{{ item.title }}</span>
-    	       <p>
-               <small>
-                 {{ item.descr }}
-               </small>
-             </p>
+    	       <p style='text-align:justify'>{{ item.descr }}</p>
           </div>
         	<div class="card-action">
-        	  <a href="{{ item.site }}">Site</a>
-        	  <a href="{{ item.map }}">Map</a>
+        	  <a href="{{ item.site }}" target="_blank">Website</a>
+        	  <a href="{{ item.map }}" target="_blank">Map</a>
         	</div>
         </div>
       </div>
@@ -40,30 +42,34 @@ title: Facilities
   {% endfor %}
 </div>
 
+<h2>Milano</h2>
 <div class="section">
-  <h2>Accommodation</h2>
-
-  {% for item in site.data.facilities.accomodation %}
+  {% for item in site.data.facilities.milano %}
     {% assign col = forloop.index0 | modulo:2 %}
     {% if col == 0 %}
       <div class="row">
     {% endif %}
       <div class="col s12 m6">
-        <div class="card">
-           <div class="card-image">
-    	       <img src="{{ site.url}}/{{ item.img }}">
-          </div> 
+        <div class="card" id='{{item.id}}'>
+          <div class="card-image">
+      <!--    <div class="slider">
+              <ul class="slides">
+                {% for item2 in item.slideshow %}
+                <li>
+                  <img src="{{ site.url}}/{{ item2.slide }}">
+                </li>
+                {% endfor %}
+              </ul>
+            </div> -->
+             <img src="{{ site.url}}/{{ item.img }}">
+          </div>
           <div class="card-content">
     	       <span class="card-title grey-text text-darken-4">{{ item.title }}</span>
-    	       <p>
-               <small>
-                 {{ item.descr }}
-               </small>
-             </p>
+    	       <p style='text-align:justify'>{{ item.descr }}</p>
           </div>
         	<div class="card-action">
-        	  <a href="{{ item.site }}">Site</a>
-        	  <a href="{{ item.map }}">Map</a>
+        	  <a href="{{ item.site }}" target="_blank">Website</a>
+        	  <a href="{{ item.map }}" target="_blank">Map</a>
         	</div>
         </div>
       </div>

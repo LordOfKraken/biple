@@ -1,35 +1,89 @@
-﻿intro: ""
+- nome: "Prof. Elio Giroletti"
+  id: giroletti
+  uni: "Università degli Studi di Pavia"
+  img: "/img/speakers/giroletti.jpg"
+  #title: "Titolo dell'incontro conferenza"
+  bio: Ricercatore presso l'Università degli Studi di Pavia, Elio Giroletti è esperto di terzo grado (massimo livello secondo la legge italiane e le direttive europee) in protezione dalle radiazioni e responsabile di HSE Service (Health, Safety and Enviromental) presso numerose istituzioni, come CNAO e INGM. La sua professione lo ha portato a collaborare con enti internazionali, come la IAEA, e ha trascorrere lunghi periodi all'estero.
+  #abstract: breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract
+  link:
 
-science:
-  
-  - img: img/speakers/henning.jpg
-    title: Dr. Henning Moritz
-    descr: "Dr. Henning Moritz is a Professor at the University of Hamburg. He's the Head of Group research at the Institute for Laserphysics. His main fields of interests are strongly correlated systems, quantum phase transitions, interacting fermions in optical lattices, low dimensional systems nonequilibrium phenomena, transport, mesoscopic physics and atomic gases in nanostructures"
-    shortdes: "Institute for Laserphysics"
+- nome: "Prof.ssa Francesca Ballarini"
+  id: ballarini
+  uni: "Università degli Studi di Pavia"
+  img: "/img/speakers/ballarini.jpg"
+  #title: "Titolo dell'incontro conferenza"
+  bio: Francesca Ballarini è Professore Associato presso l'Università degli Studi di Pavia, dove insegna corsi di fisica generale, protezione delle radiazioni e simulazioni di fisica biosanitaria. La sua attività di ricerca, svolta in collaborazione con molte istituzioni tra le quale CNAO e CERN, si focalizza sullo sviluppo di modelli e codici per la simulazione degli effetti biologici delle radiazioni ionizzanti, includendo le applicazioni all'adroterapia. Dal 1999 ha pubblicato più di 140 articoli (88 in riviste indicizzate), tenuto 60 presentazioni (37 su invito) e ha participato a molti progetti di ricerca; è attualmente membro di "Board of the International Association for Radiation Research".
+  #abstract: breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract
+  link:
 
-  - img: img/speakers/roland.jpg
-    title: Roland Wiesendanger
-    descr: "Roland Wiesendanger is a Professor at the University of Hamburg. He's the Head of a Group research in nanoscience. His main research activities are the demonstration of vacuum tunnelling of spin-polarized electrons in STM; demonstration of atomic-resolution magnetic imaging by SP-STM; demonstration of the detection of magnetic exchange forces in NC-AFM and atomic-resolution magnetic imaging by Magnetic Exchange Force Microscopy; discovery of atomically sharp magnetic domain walls in ultrathin ferromagnetic films; atomic-resolution of antiferromagnetic domain walls; observation of magnetic hysteresis on a single-digit nanometer scale and development of single-atom magnetometry; observation of oscillatory magnetic exchange coupling between individual adatoms; observation of thermally induced magnetization switching of nanometer-scale magnetic islands and few-atom clusters; demonstration of spin-current induced magnetization switching across a vacuum gap by SP-STM; discovery of complex spin structures including magnetic vortices, spin spirals, and skyrmion lattices by SP-STM; demonstration of local writing and deleting of individual skyrmions by an SP-STM tip; observation of the spin-density distribution of individual adsorbed molecules with intramolecular spatial resolution; detection of spin-split Landau levels in semiconductors by SP-STM; combination of single atom manipulation and spin state imaging; demonstration of artificially built nanomagnets and of atomic-scale all-spin logic operations"
-    shortdes: "Hamburg University"
+- nome: "Dott.ssa Fulvia Palesi"
+  id: palesi
+  uni: "IRCCS Fondazione Mondino - Università degli Studi di Pavia"
+  img: "/img/speakers/palesi.jpg"
+  #title: "Titolo dell'incontro conferenza"
+  bio: Laureata in Fisica Biosanitaria nel 2008 presso l'Università degli Studi di Pavia con un lavoro di tesi svolto presso l'IRCCS Fondazione Mondino nell'ambito dell'imaging di risonanza magnetica applicata a pazienti affetti da HIV. Nel 2012 consegue il Dottorato di Ricerca in Fisica presso l'Università degli Studi di Pavia, con curriculum in Fisica Applicata. Dal 2012 al 2017 Assegnista di Ricerca nell’ambito dell’imaging di risonanza magnetica in patologie neurologiche. Nel 2017 entra nello staff dell'IRCCS Mondino in cui attualmente ricopre l’incarico di ricercatrice.
+  #abstract: breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract
+  link:
 
-  - img: img/speakers/robin.jpg
-    title: Dr. Robin Santra
-    descr: "Robin is a researcher at the Center for Free-Electron Laser Science and part of the CFEL-DESY theory group. His interests are in the light induced dynamics and control of strongly correlated quantum systems. In Robin's project on strong-field ionization processes in real atoms he investigates the role of correlated electron motion accompanying nonperturbative multiphoton ionization of real atoms. The project involves theoretical method development, based on quantum many-body techniques, and the performance of numerical calculations. Applications in attosecond science and in connection with free-electron lasers are planned."
-    shortdes: "Center for Free-Electron Laser Science"
+- nome: "Dott.ssa Silva Bortolussi"
+  id: bortolussi
+  uni: "Università degli Studi di Pavia e INFN - Sezione di Pavia"
+  img: "/img/speakers/bortolussi.jpg"
+  title: "Radioterapia con i neutroni: un concetto diverso di selettività"
+  bio: Laureata in Fisica nel 2004 presso l’Università di Trieste e Dottorata in Fisica nel 2008 presso l’Università di Pavia, con tesi nell’ambito della Boron Neutron Capture Therapy (BNCT) dei tumori diffusi nel fegato e nel polmone. Nel 2015 consegue un Master in Open Innovation e Technology Transfer presso il Politecnico di Milano. Attualmente Ricercatore presso il Dipartimento di Fisica di UniPV, dove si occupa principalmente di sviluppare la BNCT con acceleratori di protoni. (<a href='https://www.researchgate.net/profile/Silva_Bortolussi' target='_blank'>ResearchGate</a>).
+  abstract: "La terapia per cattura neutronica sul boro: sfide e obiettivi per il prossimo futuro."
+  link:
 
-  - img: img/speakers/daniela.jpg
-    title: Dr. Daniela Pfannkuche
-    descr: "Dr. Daniela Pfannkuche is a Professor at the University of Hamburg. She's a research group leader in Dynamics in correlated systems. Her interest are transport through nanostructures with focus on switching dynamics in magnetic nanostructures, spin dynamics in a time convolutionless approach and aano-electromechanical Systems (NEMS). Daniela is also interested in short time dynamics expecially model systems in short-pulsed light fields, doublon dynamics in ultra-cold gases and coupled dynamics of multi-component Bose-gases. She's also a researcher at the Hamburg Centre for Ultrafast Imaging."
-    shortdes: "Hamburg University"
+- nome: "Dott. Michele Prata"
+  id: prata
+  bio: Laureato in Fisica nel 1999 presso l’Università degli Studi di Pavia con un lavoro di tesi di strumentazione nell’ambito dell’esperimento ATLAS. Nel 2003 consegue il Dottorato di Ricerca in Fisica presso l’Università degli Studi di Pavia, con curriculum di Fisica Nucleare e Subnucleare. Dal 2003 al 2005 Assegnista di Ricerca INFN nell’ambito dell’esperimento ICARUS. Nel 2006 entra nello staff del LENA dove attualmente ricopre l’incarico di Direttore Tecnico di Impianto Nucleare di Ricerca e Responsabile del Servizio di Fisica Sanitaria. (<a href='https://www.researchgate.net/profile/Michele_Prata' target='_blank'>ResearchGate</a>)
+  uni: L.E.N.A. Laboratorio Energia Nucleare Applicata - Università degli Studi di Pavia
+  img: "/img/speakers/prata.jpg"
+  title: "Quel nucleare (buono) nel cuore di Pavia"
+  abstract: Principi di funzionamento di un reattore nucleare e principali attività di ricerca al reattore nucleare TRIGA Mark II del LENA.
+  link:
 
-  - img: img/speakers/boris.JPG
-    title: Dr. Boris Albers
-    descr: "Dr. Boris Albers works with leading organizations in the industrial/natural resources sector, including transportation, energy, utilities, waste management, manufacturing, and services. He also works for private equity companies and is involved in leadership and succession projects.
-Boris has recently completed searches for senior executives and supervisory and advisory board members. These included members for the advisory board of a private equity company and searches for CEO, CFO, CHRO, and CPO positions. In addition, he conducted search assignments for a leading energy company.
-Prior to joining Russell Reynolds Associates, Boris spent four years as a consultant with the Boston Consulting Group, where he developed long-term visions, strategies, new business models, and organizational improvements and supported the implementation of such projects. He advised management in the industry, technology, and financial services sectors, focusing on companies in Germany, Scandinavia, and Africa."
-    shortdes: "Russell Reynolds Associate"
+- nome: "Prof. Alessandro Lascialfari"
+  id: lascialfari
+  uni: "Università degli Studi di Milano"
+  img: "/img/speakers/lascialfari.jpg"
+  #title: "Titolo dell'incontro conferenza"
+  bio: Alessandro Lascialfari è professore ordinario presso l'Università degli Studi di Milano. Tiene corsi a studenti di laurea magistrale e di dottorato presso i Corsi di Laurea in Fisica e Farmacia a Milano e a Pavia. E' autore o coautore di più di 200 articoli e nella sua attività di ricerca ha sfruttato tecniche di NMR, MuSR, SQUID, calorimetria, MRI, AFM e ipertermia magnetica. Ha ottenuto importanti risultati nello studio delle proprietà magnetiche e delle dinamiche di spin in superconduttori HTSC e in sistemi magnetici nanoscopici e con bassa dimensionalità.
+  #abstract: breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract
+  link:
 
-  - img: img/speakers/jorg.JPG
-    title: Dr. Jörg Faupel
-    descr: "Jörg is a Patent, Trademark and Design Attorney specialised in patent, utility model, trademark, registered design, employee invention and intellectual property law. He has experience with industrial property rights since 2007."
-    shortdes: "Seemann & Partner"
+- nome: "Prof.ssa Flavia Maria Groppi Garlandini"
+  id: groppi
+  uni: "Università degli Studi di Milano"
+  img: "/img/speakers/groppi.jpg"
+  #title: "Titolo dell'incontro conferenza"
+  bio: Flavia Maria Groppi Garlandini si è laureata in Fisica presso l'Università degli Studi di Milano nel 1983, dove nel 1986 ha conseguito anche la Specializzazione in Fisica Sanitaria ed Ospedaliera. La sua ricerca di base è incentrata sullo studio sistematico delle radiazioni indotte dalle interazioni tra ioni pesanti.
+  #abstract: breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract
+  link:
+
+- nome: "Prof. Giuseppe Battistoni"
+  id: battistoni
+  uni: "INFN - Sezione di Milano"
+  img: "/img/speakers/battistoni.jpg"
+  #title: "Titolo dell'incontro conferenza"
+  bio: Giuseppe Battistoni ha conseguito la laurea in Fisica nel 1977 all'università di Roma, e dal 1990 fa parte del gruppo di sviluppo dei caloriferi per ATLAS  nella sezione INFN di Milano. Nel 2001 ha contribuito allo sviluppo e diffusione del codice FLUKA per simulazioni Montecarlo, e lo ha utilizzato per lo studio della fisica dei raggi cosmici e dei neutrini, le interazioni adroniche e le loro applicazioni alla ricerca spaziale e alla medicina. Dal 2006 al 2012 è stato direttore della sezione INFN di Milano. Attualmente la sua ricerca verte su simulazioni FLUKA di adroterapia, che hanno contribuito a sviluppare nuovi sistemi di pianificazione del trattamento e monitoring on-line della terapia.
+  #abstract: breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract
+  link:
+
+- nome: "Dott. Ivan Veronese"
+  id: veronese
+  uni: "Università degli Studi di Milano"
+  img: "/img/speakers/veronese.png"
+  #title: "Titolo dell'incontro conferenza"
+  bio: Ivan Veronese (12 maggio 1975) ha conseguito la laurea in Fisica nel marzo del 2000 e nel 2004 il dottorato il Fisica, Astrofisica e Fisica Applicata. Dal 2008 è Ricercatore Universitario (fisica applicata ai beni culturali, biologia e medicina) presso il Dipartimento di Fisica dell'Università degli Studi di Milano. Tra i campi di ricerca troviamo la radioprotezione e la dosimetria interna ed esterna con radiofarmaci e radioisotopi nei trattamenti radioterapici.
+  #abstract: breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract
+  link:
+
+- nome: "Dott. Giorgio Baiocco"
+  id: baiocco
+  uni: "Università degli Studi di Pavia"
+  img: "/img/speakers/baiocco.jpg"
+  #title: "Titolo dell'incontro conferenza"
+  bio: Giorgio Baiocco ha ottenuto il dottorato di ricerca in Fisica nel 2012 presso l’Università di Bologna e l'Université de Caen-Basse Normandie (Caen, Francia). Dopo gli inizi in fisica nucleare, è attivo dal 2013 nella ricerca sugli effetti delle radiazioni sulle strutture biologiche, con applicazioni in radioterapia, radiodiagnostica e radioprotezione, in particolare in ambito spaziale. Attualmente occupa la posizione di ricercatore a tempo determinato nel gruppo di Radiobiologia e Biofisica delle Radiazioni (<a href="http://radbiophys.unipv.eu/" target="_blank">http://radbiophys.unipv.eu/</a>) presso il Dipartimento di Fisica dell’Università degli Studi di Pavia.
+  #abstract: breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract
+  link:

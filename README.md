@@ -1,4 +1,4 @@
 
-# Exchange NC Germany - NC Italy
+# TIQIT
 
-Website for the Exchange NC Germany - NC Italy
+Sito ufficiale dell'evento TIQIT organizzato dal comitato locale di Trento

@@ -1,7 +1,7 @@
 # Site settings
-# title: "Acr Ev"
-# description: "nome evento completo"
-url: "http://ai-sf.it/gipe" # the base hostname & protocol for your site
+title: "BiPLE18"
+description: "Biomedical Physics Lombard Event 2018"
+url: "http://ai-sf.it/biple/"
 destination: ../site/
 locale: "it"
 

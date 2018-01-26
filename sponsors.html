@@ -1,0 +1,26 @@
+---
+layout: page
+title: Sponsor
+---
+
+{% for sezione in site.data.sponsors %}
+<h3>{{ sezione.title}}</h3>
+<div class="row">
+  {% for item in sezione.subitems %}
+  <div class="col m3">
+    <div class="card">
+      <div class="card-image" >
+        <img src="{{site.url}}/img/sponsor/{{item.img}}">
+      </div>
+      <div class="card-content">
+        <p style='font-size: large'>{{item.text}}</p>
+      </div>
+      <div class="card-action">
+        <a href="{{item.link}}" target="_blank">WEBSITE</a>
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+<br>
+{% endfor %}

@@ -1,29 +1,18 @@
-banner: img/banner.png
+banner: img/biple.svg
 
-dpg_logo: img/dpg_logo.png
+who: "<b>54</b> studenti dei corsi di laurea <b>Triennale</b> o <b>Magistrale</b> o del <b>Dottorato di ricerca</b> in Fisica che siano regolarmente iscritti all'AISF per l'anno accademico 2018/2019."
 
-who: "40 students, half from the Italian Association of Physics Students (AISF), half from the junge Deutschen Physikalische Gesellschaft (jDPG)."
+when: "Cerimonia di apertura: pomeriggio di martedì <b>20 marzo</b>. Cerimonia di chiusura: mattina di sabato <b>24 marzo 2018</b>."
 
-when: "From the 1st to the 5th of November 2017."
+where: "Sedi principali dell'evento sono il Dipartimento di Fisica dell'Università degli Studi di <b>Pavia</b> e il Dipartimento di Fisica dell'Università degli Studi di <b>Milano</b>."
 
-where: "The first year of the GIPE will be held by the jDPG in Hamburg, Germany."
 
 slideshow:
-  - img: img/nexperia.JPG
-    alt: Nexperia
-    title: Nexperia
-    text: 
-  - img: img/desy.jpg
-    alt: DESY
-    title: DESY
-    text: DESY's Photon Science department
-  - img: img/cfel.jpg
-    alt: MPSD & CFEL
-    title: MPSD & CFEL
-    text: Max Planck Institute for the Structure and Dynamics of Matter and the Centre for Free-Electron Laser Science
-  - img: img/ilp.jpg
-    alt: ILP
-    title: ILP
-    text: Institute of Laserphysics
+  - img: img/innsbruck.jpg
+    alt: Innsbruck
+    title: Innsbruck
+  - img: img/pavia.jpg
+    alt: Centro Nazionale di Adroterapia Oncologica (CNAO) - Pavia
+    title:
 
-paragraph: "The Italian Association of Physics Students (AISF) and the junge Deutschen Physikalische Gesellschaft (jDPG) will join for the first year of the German Italian Physics Exchange in Hamburg on November 2017. The event is organized and sponsored by the German Physical Society (DPG)."
+paragraph: "L'evento, nella sua prima edizione, organizzato dai comitati locali di Pavia e Milano dell'Associazione Italiana Studenti di Fisica (AISF), vuole valorizzare le attività di ricerca svolte in territorio lombardo nell'ambito della Fisica Medica e Biosanitaria: nei cinque giorni dell'evento, i partecipanti avranno modo di assistere a seminari tenuti da esperti ricercatori locali e visitare strutture di eccellenza all’interno del panorama nazionale ed internazionale, come CNAO e LENA (Pavia) o IFOM e IEO e diverse strutture ospedaliere (Milano). Inoltre studenti e dottorandi avranno la possibilità di esporre i propri lavori di tesi e di ricerca."

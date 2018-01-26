@@ -1,15 +1,14 @@
-- text: Facilities
+- text: Visite
   url: facilities
-- text: Speakers
+- text: Conferenze
   url: speakers
-- text: Programme
+- text: Eventi serali
+  url: serate
+- text: Programma
   url: programme
-- text: Registration
+- text: Registrazione
   url: registration
-- text: jDPG
-  url: http://www.dpg-physik.de/dpg/gliederung/junge/index.html
+- text: Sponsor
+  url: sponsors
 - text: AISF
   url: http://www.ai-sf.it
-- text: IAPS
-  url: http://www.iaps.info
-  

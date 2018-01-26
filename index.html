@@ -1,10 +1,29 @@
 ---
 layout: default
 ---
+
+<img class="responsive-img" src="{{ site.url }}/img/paviaHQ_web.jpg">
+
+<!-- <div class="parallax-container">
+  <div class="parallax"><img src="{{ site.url }}/img/paviaHDe.jpg"></div>
+</div> -->
+
 {% include banner.html %}
 
 <div class="no-pad-top" id="index-page">
   <div class="container">
+
+    <!-- paragraph -->
+    <div class="section">
+          <div class="icon-block">
+            <h3 class="center">
+              <font color="{{ site.data.generic.color1 }}">
+              <b>Bi</b>omedical <b>P</b>hysics <b>L</b>ombard <b>E</b>vent 2018</font>
+            <!--  <i class="medium material-icons custom1-text">send</i> --> </h3>
+            <p class="center light">{{ site.data.home.paragraph }}</p>
+          </div>
+    </div>
+
 
     <!--   Icon Section   -->
     <div class="section">
@@ -33,35 +52,11 @@ layout: default
           </div>
         </div>
       </div>
-
-    <!-- slideshow -->
-    <div class="section">
-      <div class="slider" id="foto-eventi">
-        <ul class="slides">
-          {% for slide in site.data.home.slideshow %}
-            <li>
-              <img src="{{ site.url }}/{{ slide.img }}" alt="{{ slide.alt }}">
-              <div class="caption left-align">
-                <h4>{{ slide.title }}</h4>
-                <p class="light grey-text text-lighten-3">{{ slide.text }}</p>
-              </div>
-            </li>
-          {% endfor %}
-        </ul>
-      </div>
-    </div>
-
-    <!-- paragraph -->
-    <div class="section">
-      <div class="row">
-        <div class="col s8 offset-s2">
-          <div class="icon-block">
-            <h3 class="center"><i class="medium material-icons custom1-text">send</i></h2>
-            <p class="center light">{{ site.data.home.paragraph }}</p>
-          </div>
-        </div>
-      </div>
-    </div>
-
   </div>
 </div>
+
+<img class="responsive-img" src="{{ site.url }}/img/duomoHD_web.jpg">
+
+<!-- <div class="parallax-container">
+  <div class="parallax"><img src="{{ site.url }}/img/duomoHD.jpg"></div>
+</div> -->

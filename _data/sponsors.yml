@@ -1,2 +1,26 @@
-img: img/LNGS_home.jpg
-mail: astroparticle@ai-sf.it
+- title: Sponsor
+  subitems:
+    - text: Istituto FIRC di Oncologia Molecolare (IFOM)
+      img: IFOM.png
+      link: https://www.ifom.eu/it/
+    - text: Consorzio Interuniversitario Nazionale per la Scienza e Tecnologia dei Materiali (INSTM)
+      img: INSTM.jpg
+      link: http://www.instm.it/
+    - text: Università degli Studi di Pavia - Dipartimento di Fisica
+      img: logo_dip.png
+      link: http://fisica.unipv.it/
+    - text:  101 Caffè - Cialde e capsule caffè compatibili
+      img: 101caffe_prov.png
+      link: https://www.101caffe.it/
+    - text: GNR - Analytical Instruments Group
+      img: GNR.jpg
+      link: http://www.gnr.it/
+
+- title: Patrocini
+  subitems:
+    - text: Comune di Pavia
+      img: logo_comune_PV.png
+      link: http://www.comune.pv.it/
+    - text: EDISU Pavia - Ente per il diritto allo studio universitario
+      img: logo_EDISU.svg
+      link: http://www.edisu.pv.it/
