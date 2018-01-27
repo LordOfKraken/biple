@@ -2,7 +2,7 @@
 {% for item in include.nav %}
     {% if item.subitems %}
     <ul id="dropdown-{{ item.slug }}" class="dropdown-content">
-      <li><a href="{{ site.url }}/{{ item.url }}">{{ item.text }}</a></li>
+      <!-- <li><a href="{{ site.url }}/{{ item.url }}">{{ item.text }}</a></li> -->
       {% for subitem in item.subitems %}
       <li><a href="{{ site.url }}/{{ subitem.url }}">{{ subitem.text }}</a></li>
       {% endfor %}
@@ -23,7 +23,7 @@
           </li>
           {% else %}
             <li>
-                <a 
+                <a
                    {% if item.url contains "http://" %}
                       href="{{ item.url }}" target="_blank"
                    {% else %}
@@ -51,7 +51,7 @@
                       <a class="collapsible-header">{{ item.text }}</a>
                     <div class="collapsible-body">
                       <ul>
-                        <li><a href="{{ site.url }}/{{ item.url }}">{{ item.text }}</a></li>
+                      <!--  <li><a href="{{ site.url }}/{{ item.url }}">{{ item.text }}</a></li> -->
                     {% for subitem in item.subitems %}
                         <li><a href="{{ site.url }}/{{ subitem.url }}">{{ subitem.text }}</a></li>
                     {% endfor %}
@@ -61,7 +61,7 @@
                 </ul>
                 </li>
                 {% else %}
-                <li><a 
+                <li><a
                    {% if item.url contains "http://" %}
                       href="{{ item.url }}" target="_blank"
                    {% else %}

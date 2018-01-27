@@ -1,9 +1,13 @@
-- text: Visite
-  url: facilities
-- text: Conferenze
-  url: speakers
-- text: Eventi serali
-  url: serate
+- text: Attività
+  subitems:
+    - text: Visite
+      url: facilities
+    - text: Conferenze
+      url: speakers
+    - text: Eventi serali
+      url: serate
+    - text: Alloggi
+      url: alloggi
 - text: Programma
   url: programme
 - text: Registrazione

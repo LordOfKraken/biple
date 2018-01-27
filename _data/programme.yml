@@ -241,7 +241,7 @@ few_info:
         - text: "aperitivo di martedì sera e cena di giovedì sera;"
         - text: "trasporto in pullman per la trasferta a Milano di giovedì;"
         - text: "sacchetto con i gadget dell'evento."
-    - text:  "La quota di partecipazione con alloggio comprende inoltre il soggiorno presso uno dei Collegi della rete EDISU di Pavia per le 4 notti dell'evento. Maggiori dettagli sono disponibili alla pagina <a href='../serate'>Eventi serali</a>."
+    - text:  "La quota di partecipazione con alloggio comprende inoltre il soggiorno presso uno dei Collegi della rete EDISU di Pavia per le 4 notti dell'evento. Maggiori dettagli sono disponibili alla pagina <a href='../alloggi'>Alloggi</a>."
     - text: "Entrambe le quote di partecipazione <b>non comprendono</b>:"
       subpoints:
         - text: "spese di viaggio per raggiungere la conferenza;"
