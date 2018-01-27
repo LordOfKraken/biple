@@ -12,13 +12,13 @@ contact:
 connect:
   - name: AISF
     url: https://www.facebook.com/aisf.fisica/
-    img_name: logo_AISF.jpg
+    img_name: sbanner.png
   - name: AISF Pavia
     url: https://www.facebook.com/aisfpavia/
     img_name: logo_AISF_pavia.png
   - name: AISF UNIMI
     url: https://www.facebook.com/aisfunimi/
-    img_name: logo_AISF_milano.jpg
+    img_name: logo_AISF_UNIMI.svg
 
 creator:
   - name: "Giovanni Stagnitto"
