@@ -248,4 +248,4 @@ few_info:
         - text: "assicurazione;"
         - text: "trasporti all'interno di Pavia (il Dipartimento dista dal centro città circa 20 minuti a piedi);"
         - text: "cena di mercoledì e venerdi."
-    - text: "Per procedere con la registrazione, cliccare <a href='/registration/'>qui</a>."
+    - text: "Per procedere con la registrazione, cliccare <a href='../registration/'>qui</a>."
