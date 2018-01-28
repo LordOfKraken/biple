@@ -3,6 +3,9 @@
     - text: Istituto FIRC di Oncologia Molecolare (IFOM)
       img: IFOM.png
       link: https://www.ifom.eu/it/
+    - text: GNR - Analytical Instruments Group
+      img: GNR.jpg
+      link: http://www.gnr.it/
     - text: Consorzio Interuniversitario Nazionale per la Scienza e Tecnologia dei Materiali (INSTM)
       img: INSTM.jpg
       link: http://www.instm.it/
@@ -10,11 +13,8 @@
       img: logo_dip.png
       link: http://fisica.unipv.it/
     - text:  101 Caffè - Cialde e capsule caffè compatibili
-      img: 101caffe_prov.png
+      img: 101caffe_marrone.png
       link: https://www.101caffe.it/
-    - text: GNR - Analytical Instruments Group
-      img: GNR.jpg
-      link: http://www.gnr.it/
 
 - title: Patrocini
   subitems:
