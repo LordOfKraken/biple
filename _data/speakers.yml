@@ -16,6 +16,16 @@
   #abstract: breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract
   link:
 
+- nome: "Prof. Alberto Torresin"
+  id: torresin
+  uni: "Ospedale Niguarda Ca' Granda - Università degli Studi di Milano"
+  img: "/img/speakers/torresin.jpeg"
+  #title: "Titolo dell'incontro conferenza"
+  bio: Alberto Torresin ha iniziato l'attività di Fisico Sanitario nel 1981 presso la Fisica Sanitaria dell'Ospedale Maggiore di Novara, trasferendosi poi nel 1982 presso la Fisica Sanitaria dell'Ospedale Maggiore di Milano. Dal 1988 lavora nella Fisica Sanitaria dell'Ospedale Niguarda Ca'Granda, di cui è Direttore dal 2008. Si occupa dell’impiego ottimizzato ed interdisciplinare delle immagini radiologiche e di medicina nucleare per fornire i migliori strumenti per la diagnostica radiologica e la pianificazione neurochirurgica e radioterapica. Dal 1997 è professore a contratto presso il Corso di Laurea in Fisica della Facoltà di Scienze Matematiche Fisiche e Naturali dell’Università degli Studi di Milano e presso la Scuola di Specializzazione in Fisica Medica dell'Università Statale degli Studi di Milano.
+  #abstract: breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract
+  link:
+
+
 - nome: "Dott.ssa Fulvia Palesi"
   id: palesi
   uni: "IRCCS Fondazione Mondino - Università degli Studi di Pavia"
