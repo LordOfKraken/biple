@@ -217,7 +217,8 @@ schedule:
       - hour: "9:00 - 9:45"
         where: "Collegio Cairoli"
         descr: "Paolo MILANI"
-        tag: studenti
+        tag: conf
+        id: speakers/#milani
       - hour: "9:45 - 13:00"
         where: "Collegio Cairoli"
         descr: "Poster session <br> Pillole di scienza"
