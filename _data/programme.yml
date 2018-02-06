@@ -42,11 +42,11 @@ schedule:
     day_ex: Mercoledì 21 marzo (Pavia)
     short_descr: "Visita al L.E.N.A., conferenze e talk studenti"
     activity:
-      #- hour: "9:15 - 10:00"
-      #  where: "Dipartimento di Fisica"
-    #    descr: "Speaker <br>"
-    #    id: speakers/#torresin
-    #    tag: conf
+      - hour: "9:15 - 10:00"
+        where: "Dipartimento di Fisica"
+        descr: "Alberto TORRESIN <br> <i>Tecniche di imaging per la diagnostica e la terapia in ambito sanitario</i>"
+        id: speakers/#torresin
+        tag: conf
       - hour: "10:00 - 10:45"
         where: "Dipartimento di Fisica"
         descr: "Fulvia PALESI"
