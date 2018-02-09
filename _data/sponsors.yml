@@ -6,6 +6,9 @@
     - text: GNR - Analytical Instruments Group
       img: GNR.jpg
       link: http://www.gnr.it/
+    - text: SDI The power of automation
+      img: logo_sdi.svg
+      link: http://www.sdiautomazione.com/index.html
     - text: Consorzio Interuniversitario Nazionale per la Scienza e Tecnologia dei Materiali (INSTM)
       img: INSTM.jpg
       link: http://www.instm.it/
@@ -15,9 +18,6 @@
     - text:  101 Caffè - Caffè di qualità in cialde, capsule, grani, macinati
       img: logo_101caffe.jpg
       link: https://www.101caffe.it/
-    - text: SDI The power of automation
-      img: logo_sdi.svg
-      link: http://www.sdiautomazione.com/index.html
 
 - title: Patrocini
   subitems:
