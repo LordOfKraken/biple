@@ -15,6 +15,9 @@
     - text:  101 Caffè - Caffè di qualità in cialde, capsule, grani, macinati
       img: logo_101caffe.jpg
       link: https://www.101caffe.it/
+    - text: SDI The power of automation
+      img: logo_sdi.svg
+      link: http://www.sdiautomazione.com/index.html
 
 - title: Patrocini
   subitems:
