@@ -1,4 +1,4 @@
-- title: Con il sostegno di:
+- title: "Con il sostegno di:"
   subitems:
     - text: Istituto FIRC di Oncologia Molecolare
       img: IFOM.png
@@ -19,7 +19,7 @@
       img: logo_101caffe.jpg
       link: https://www.101caffe.it/
 
-- title: Con il patrocinio di:
+- title: "Con il patrocinio di:"
   subitems:
     - text: Comune di Pavia
       img: logo_comune_PV_bianco.png
