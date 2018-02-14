@@ -3,13 +3,16 @@
     - text: Istituto FIRC di Oncologia Molecolare
       img: IFOM.png
       link: https://www.ifom.eu/it/
-      fb: asdasdasd
+      fb: https://www.facebook.com/ifomyouscientist/
+      linkedin: https://www.linkedin.com/company/ifom/
     - text: SDI The power of automation
       img: logo_sdi.svg
       link: http://www.sdiautomazione.com/index.html
+      linkedin: https://www.linkedin.com/company/s-d-i-automazione-industriale/
     - text: GNR - Analytical Instruments Group
       img: GNR.jpg
       link: http://www.gnr.it/
+      linkedin: https://www.linkedin.com/company/gnrsrl/
     - text: Consorzio Interuniversitario Nazionale per la Scienza e Tecnologia dei Materiali (INSTM)
       img: INSTM.jpg
       link: http://www.instm.it/
@@ -19,24 +22,30 @@
     - text:  101 Caffè - Caffè di qualità in cialde, capsule, grani, macinati
       img: logo_101caffe.jpg
       link: https://www.101caffe.it/
+      fb: https://www.facebook.com/101Caffe/
+      linkedin: https://www.linkedin.com/company/101-caff%C3%A8-srl/
 
 - title: "Con il patrocinio di:"
   subitems:
     - text: Comune di Pavia
       img: logo_comune_PV_bianco.png
       link: http://www.comune.pv.it/
+      fb: https://www.facebook.com/comunePV/
     - text: EDISU Pavia - Ente per il diritto allo studio universitario
       img: logo_EDISU_bianco.svg
       link: http://www.edisu.pv.it/
     - text: Fondazione CNAO
       img: CNAO.jpg
       link: https://www.fondazionecnao.it/it/
+      fb: https://www.facebook.com/FondazioneCnao/
     - text: Istituto Europeo di Oncologia (IEO)
       img: IEO_duerighe.jpg
       link: https://www.ieo.it/
+      fb: https://www.facebook.com/IstitutoEuropeoDiOncologia/
     - text: Istituto Nazionale di Fisica Nucleare (INFN)
       img: logo_INFN.jpg
       link: http://home.infn.it/it/
+      fb: https://www.facebook.com/IstitutoFisicaNucleare/
     - text: Cluster Lombardo - Scienze della vita
       img: logo_cluster-lombardo.jpg
       link: http://www.lombardialifesciences.it/en/
