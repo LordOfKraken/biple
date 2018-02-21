@@ -1,4 +1,4 @@
-info: "L'evento si terrà da martedì 20 marzo a sabato 24 marzo 2018 tra Pavia e Milano. La registrazione partecipanti comincerà nel primo pomeriggio di martedì 20 marzo presso il Dipartimento di Fisica di Pavia, seguita dalla cerimonia di apertura e da prime conferenze introduttive all'argomento: verranno forniti tutti gli elementi necessari per poter comprendere al meglio le conferenze e le visite dei giorni successivi. La giornata di giovedì 22 marzo si svolgerà a Milano, le altre giornate invece si svolgeranno interamente a Pavia. Oltre alle conferenze e alle visite, sono organizzati anche alcuni momenti di svago, come l'Aperitivo con il quiz scientifico 'Botta di Coulomb' di martedì sera o la Cena con Delitto di giovedì sera. L'evento si concluderà nel primo pomeriggio di sabato a Pavia, presso il Collegio Fratelli Cairoli, con la cerimonia di chiusura."
+info: "L'evento si terrà da martedì 20 marzo a sabato 24 marzo 2018 tra Pavia e Milano. La registrazione partecipanti comincerà nel primo pomeriggio di martedì 20 marzo presso il Dipartimento di Fisica di Pavia, seguita dalla cerimonia di apertura e da prime conferenze introduttive all'argomento: verranno forniti tutti gli elementi necessari per poter comprendere al meglio le conferenze e le visite dei giorni successivi. La giornata di giovedì 22 marzo si svolgerà a Milano, le altre giornate invece si svolgeranno interamente a Pavia. Oltre alle conferenze e alle visite, sono organizzati anche alcuni momenti di svago, come l'Aperitivo con il quiz scientifico 'Botta di Coulomb' di martedì sera o la Cena con Delitto di giovedì sera. L'evento si concluderà nella mattinata di sabato 24 marzo presso la sede centrale dell'Università di Pavia."
 
 last_update: 12/01/17
 
@@ -215,22 +215,32 @@ schedule:
     short_descr: "Poster session e chiusura lavori"
     activity:
       - hour: "9:00 - 9:45"
-        where: "Collegio Cairoli"
+        where: "Università di Pavia - Sede Centrale"
         descr: "Paolo MILANI"
         tag: conf
         id: speakers/#milani
-      - hour: "9:45 - 13:00"
-        where: "Collegio Cairoli"
+        map: https://goo.gl/maps/YCjHzYP8BhP2
+      - hour: "9:45 - 10:30"
+        where: "Università di Pavia - Sede Centrale"
+        descr: "Andrea CILIBERTO"
+        tag: conf
+        id: speakers/#ciliberto
+        map: https://goo.gl/maps/YCjHzYP8BhP2
+      - hour: "10:30 - 11:00"
+        where: "Università di Pavia - Sede Centrale"
+        descr: "Coffee Break"
+        tag: svago
+        map: https://goo.gl/maps/YCjHzYP8BhP2
+      - hour: "11:00 - 13:00"
+        where: "Università di Pavia - Sede Centrale"
         descr: "Poster session <br> Pillole di scienza"
         tag: studenti
+        map: https://goo.gl/maps/YCjHzYP8BhP2
       - hour: "13:00 - 14:00"
-        where: "Collegio Cairoli"
+        where: "Mensa Centrale Edisu"
         descr: "Pranzo"
         tag: svago
-      - hour: "14:00 - 15:00"
-        where: "Collegio Cairoli"
-        descr: "Cerimonia di chiusura"
-        tag:
+        map: https://goo.gl/maps/X4iNxsPAH1B2
 
 few_info:
   info: ""
