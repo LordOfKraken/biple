@@ -31,7 +31,7 @@ schedule:
         tag: conf
         id: speakers/#ballarini
       - hour: "20:30 - 23:30"
-        where: "Santa Maria Gualteri"
+        where: "Santa Maria Gualtieri"
         descr: "Aperitivo con Quiz Scientifico"
         tag: sera
         map: https://goo.gl/maps/o8eeEh8wbp22
