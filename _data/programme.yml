@@ -18,7 +18,7 @@ schedule:
         tag:
       - hour: "16:30 - 17:30"
         where: "Dipartimento di Fisica"
-        descr: "Elio GIROLETTI"
+        descr: "Elio GIROLETTI  <br> <i>Radiazioni ionizzanti: interazioni e industria</i>"
         tag: conf
         id: speakers/#giroletti
       - hour: "17:30 - 18:00"
