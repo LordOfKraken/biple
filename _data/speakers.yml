@@ -11,9 +11,9 @@
   id: ballarini
   uni: "Università degli Studi di Pavia"
   img: "/img/speakers/ballarini.jpg"
-  #title: "Titolo dell'incontro conferenza"
+  title: "Radiazioni ionizzanti: effetti biologici e utilizzo in adroterapia oncologica"
   bio: Francesca Ballarini è Professore Associato presso l'Università degli Studi di Pavia, dove insegna corsi di fisica generale, protezione delle radiazioni e simulazioni di fisica biosanitaria. La sua attività di ricerca, svolta in collaborazione con molte istituzioni tra le quale CNAO e CERN, si focalizza sullo sviluppo di modelli e codici per la simulazione degli effetti biologici delle radiazioni ionizzanti, includendo le applicazioni all'adroterapia. Dal 1999 ha pubblicato più di 140 articoli (88 in riviste indicizzate), tenuto 60 presentazioni (37 su invito) e ha participato a molti progetti di ricerca; è attualmente membro di "Board of the International Association for Radiation Research".
-  #abstract: breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract
+  abstract: "Nella prima parte del talk si intende fornire una panoramica generale relativa al danno radioindotto a DNA e cromosomi e alla morte cellulare, nonché ai principali effetti a livello di tessuti/organi e organismo. Particolare attenzione sarà dedicata alla dipendenza del danno dalla dose e dalla 'qualità della radiazione' (tipo di particella ed energia). Nella seconda parte saranno invece presentate le principali problematiche radiobiologiche dell’adroterapia con particelle cariche; in particolare si spiegherà come i modelli biofisici, incluso un modello sviluppato a Pavia (<i>Carante et al. 2018, Phys. Med. Biol.</i>), vengono utilizzati per valutare l’efficacia biologica dei fasci terapeutici."
   link:
 
 - nome: "Prof. Alberto Torresin"

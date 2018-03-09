@@ -27,7 +27,7 @@ schedule:
         tag: svago
       - hour: "18:00 - 19:00"
         where: "Dipartimento di Fisica"
-        descr: "Francesca BALLARINI <br>"
+        descr: "Francesca BALLARINI <br> <i>Radiazioni ionizzanti: effetti biologici e utilizzo in adroterapia oncologica</i>"
         tag: conf
         id: speakers/#ballarini
       - hour: "20:30 - 23:30"
