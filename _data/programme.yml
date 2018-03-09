@@ -175,7 +175,7 @@ schedule:
     activity:
       - hour: "9:15 - 10:00"
         where: "Dipartimento di Fisica"
-        descr: "Conferenza introduttiva alla visita al CNAO"
+        descr: "Silvia MOLINELLI"
         tag: conf
       - hour: "10:00 - 10:45"
         where: "Dipartimento di Fisica"
@@ -185,7 +185,15 @@ schedule:
         where: "Mensa"
         descr: "Pranzo"
         tag: svago
-      - hour: "12:00 - 14:00"
+      - hour: "12:00 - 12:30"
+        where: "Centro Nazionale di Adroterapia Oncologica"
+        descr: "Monica NECCHI <br><i>CNAO, un'eccellenza italiana</i>"
+        tag: conf
+      - hour: "12:00 - 12:30"
+        where: "Centro Nazionale di Adroterapia Oncologica"
+        descr: "Angelica FACOETTI <br><i>Attività clinica e radiobiologica in CNAO</i>"
+        tag: conf
+      - hour: "13:00 - 14:30"
         where: "Centro Nazionale di Adroterapia Oncologica"
         descr: "Visita<br><b>Centro Nazionale di Adroterapia Oncologica (CNAO)</b>"
         tag: visit
@@ -200,7 +208,7 @@ schedule:
         descr: "Giorgio BAIOCCO"
         tag: conf
         id: speakers/#baiocco
-      - hour: "17:00 - 19:00"
+      - hour: "16:00 - 18:00"
         where: "Dipartimento di Fisica"
         descr: "Talk studenti"
         tag: studenti
