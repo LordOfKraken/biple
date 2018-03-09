@@ -49,8 +49,8 @@ schedule:
         tag: conf
       - hour: "10:00 - 10:45"
         where: "Dipartimento di Fisica"
-        descr: "Fulvia PALESI"
-        id: speakers/#palesi
+        descr: "Michele PRATA <br> <i>Quel nucleare (buono) nel cuore di Pavia</i>"
+        id: speakers/#prata
         tag: conf
       - hour: "10:45 - 11:15"
         where: "Dipartimento di Fisica"
@@ -61,26 +61,26 @@ schedule:
         descr: "Silva BORTOLUSSI <br> <i>Radioterapia con i neutroni: un concetto diverso di selettività</i>"
         id: speakers/#bortolussi
         tag: conf
-      - hour: "12:00 - 12:45"
-        where: "Dipartimento di Fisica"
-        descr: "Michele PRATA <br> <i>Quel nucleare (buono) nel cuore di Pavia</i>"
-        id: speakers/#prata
-        tag: conf
-      - hour: "12:45 - 14:15"
+      - hour: "12:00 - 13:30"
         where: "Mensa"
         descr: "Pranzo"
         tag: svago
-      - hour: "14:15 - 16:30"
+      - hour: "13:30 - 16:00"
         where: "L.E.N.A."
         descr: "Visita<br><b>L.E.N.A.</b>"
         map: https://goo.gl/maps/6D3Q61L8LsA2
         tag: visit
         id: facilities/#lena
-      - hour: "16:30 - 17:00"
+      - hour: "16:00 - 17:00"
         where: "Dipartimento di Fisica"
         descr: "Coffee Break"
         tag: svago
-      - hour: "17:00 - 19:00"
+      - hour: "16:30 - 17:15"
+        where: "Dipartimento di Fisica"
+        descr: "Fulvia PALESI <br>"
+        id: speakers/#palesi
+        tag: conf
+      - hour: "17:15 - 18:45"
         where: "Dipartimento di Fisica"
         descr: "Talk studenti"
         tag: studenti
