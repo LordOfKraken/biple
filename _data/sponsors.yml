@@ -1,4 +1,5 @@
 - title: "Con il sostegno di:"
+  format: "m4"
   subitems:
     - text: Istituto FIRC di Oncologia Molecolare
       img: IFOM.png
@@ -26,21 +27,29 @@
       linkedin: https://www.linkedin.com/company/101-caff%C3%A8-srl/
 
 - title: "Con il patrocinio di:"
+  format: "m3"
   subitems:
     - text: Comune di Pavia
       img: logo_comune_PV_bianco.png
       link: http://www.comune.pv.it/
       fb: https://www.facebook.com/comunePV/
+    - text: Università degli Studi di Pavia
+      img: logo_unipv_noscritta.jpg
+      link: http://www.unipv.eu/
+      fb: https://www.facebook.com/universitapavia/
+    - text: EDISU Pavia - Ente per il diritto allo studio universitario
+      img: logo_EDISU_bianco.svg
+      link: http://www.edisu.pv.it/
     - text: Comune di Milano
       img: comune_milano.png
       link: https://www.comune.milano.it/
       fb: https://www.facebook.com/comunemilano/
     - text: Università degli Studi di Milano
       img: logo_unimi.svg
-      link: http://www.unimi.it/  
-    - text: EDISU Pavia - Ente per il diritto allo studio universitario
-      img: logo_EDISU_bianco.svg
-      link: http://www.edisu.pv.it/
+      link: http://www.unimi.it/
+    - text: Laboratorio Energia Nucleare Applicata (L.E.N.A.)
+      img: logo_lena.jpg
+      link: http://lena.unipv.it/
     - text: Fondazione CNAO
       img: CNAO.jpg
       link: https://www.fondazionecnao.it/it/
