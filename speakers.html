@@ -10,9 +10,17 @@ Le conferenze si svolgeranno sia a Milano sia a Pavia. Saranno tenute da docenti
 <ul class="collection">
 	{% for item in site.data.speakers %}
   <li class="collection-item avatar" id="{{ item.id }}">
-    <img src="{{ site.url }}/{{ item.img }}" alt="" class="circle">
-    <span class="title">
-      {{ item.nome }}
+		{% if item.img != nil %}
+		<img src="{{ site.url }}/{{ item.img }}" alt="" class="circle">
+		{% endif %}
+		{% if item.group != nil %}
+			{% for foto in item.group %}
+    		<img src="{{ site.url }}/{{ foto.foto }}" alt="" style="width:8%">
+			{% endfor %}
+			<br>
+		{% endif %}
+		<span class="title">
+    	{{ item.nome }}
     </span>
     <br>
     <span>

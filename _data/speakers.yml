@@ -20,19 +20,18 @@
   id: torresin
   uni: "Ospedale Niguarda Ca' Granda - Università degli Studi di Milano"
   img: "/img/speakers/torresin.jpeg"
-  #title: "Titolo dell'incontro conferenza"
+  title: "Radiazioni ionizzanti: interazioni e industria"
   bio: Alberto Torresin ha iniziato l'attività di Fisico Sanitario nel 1981 presso la Fisica Sanitaria dell'Ospedale Maggiore di Novara, trasferendosi poi nel 1982 presso la Fisica Sanitaria dell'Ospedale Maggiore di Milano. Dal 1988 lavora nella Fisica Sanitaria dell'Ospedale Niguarda Ca'Granda, di cui è Direttore dal 2008. Si occupa dell’impiego ottimizzato ed interdisciplinare delle immagini radiologiche e di medicina nucleare per fornire i migliori strumenti per la diagnostica radiologica e la pianificazione neurochirurgica e radioterapica. Dal 1997 è professore a contratto presso il Corso di Laurea in Fisica della Facoltà di Scienze Matematiche Fisiche e Naturali dell’Università degli Studi di Milano e presso la Scuola di Specializzazione in Fisica Medica dell'Università Statale degli Studi di Milano.
-  #abstract: breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract
+  abstract: "Una delle principali applicazioni moderne della fisica sanitaria è la creazione di immagini mediche del corpo umano; si intende, come immagine medica, la rappresentazione, su adeguato supporto, della distribuzione di proprietà fisiche o fisico-chimiche del corpo umano o di una sua parte, ottenute sfruttando l’interazione fra un agente fisico e il corpo umano. Gli agenti fisici utilizzati per creare immagini mediche sono i Raggi X e la radioattività. L’avanzamento degli studi scientifici sta permettendo di trovare nuove soluzione per comprendere dove sono e come sono definibili le patologie e come distruggere la parti del corpo umano che si comportano in modo patologico. L’insieme delle diverse immagini mediche sono ormai indispensabili per capire quali patologie sono presenti nell’organismo e dove sono localizzate; tali informazioni sono indispensabile per adottare le idonee strategie terapeutiche per eliminare i tessuti patologici e guarire gli organismi umani. Nel corso del seminario verranno illustrati due esempi in cui, attraverso le immagini, si riesce a identificare dove sono le patologie, in genere dei tumori visibili con le immagini, e a distruggerli attraverso l’asportazione chirurgica guidata dalle immagine o distruggendo i tessuti tumorali con le radiazioni. Verrà infine descritto quale sia lo stato dell’arte della fisica applicata per il trattamento di tumori utilizzando sia l’imaging che gli acceleratori lineari per trattamenti di radioterapia."
   link:
-
 
 - nome: "Dott.ssa Fulvia Palesi"
   id: palesi
   uni: "IRCCS Fondazione Mondino - Università degli Studi di Pavia"
   img: "/img/speakers/palesi.jpg"
-  #title: "Titolo dell'incontro conferenza"
+  title: "Imaging di risonanza magnetica nelle neuroscienze"
   bio: Laureata in Fisica Biosanitaria nel 2008 presso l'Università degli Studi di Pavia con un lavoro di tesi svolto presso l'IRCCS Fondazione Mondino nell'ambito dell'imaging di risonanza magnetica applicata a pazienti affetti da HIV. Nel 2012 consegue il Dottorato di Ricerca in Fisica presso l'Università degli Studi di Pavia, con curriculum in Fisica Applicata. Dal 2012 al 2017 Assegnista di Ricerca nell’ambito dell’imaging di risonanza magnetica in patologie neurologiche. Nel 2017 entra nello staff dell'IRCCS Mondino in cui attualmente ricopre l’incarico di ricercatrice.
-  #abstract: breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract
+  abstract: "Agli anni '70 risalgono i primi esperimenti che permisero di ottenere immagini di oggetti utilizzando il principio di risonanza magnetica nucleare. Ad oggi, questa è una delle tecniche di generazione di immagini maggiormente utilizzate in campo medico per la diagnosi clinica. Nella prima parte del seminario verranno presentati i principi di un esperimento di imaging di risonanza magnetica, mentre la seconda parte tratterà della sua applicazione in campo neurologico spaziando tra le attività di ricerca che permettono lo studio della funzione e della struttura cerebrale."
   link:
 
 - nome: "Dott.ssa Silva Bortolussi"
@@ -41,7 +40,7 @@
   img: "/img/speakers/bortolussi.jpg"
   title: "Radioterapia con i neutroni: un concetto diverso di selettività"
   bio: Laureata in Fisica nel 2004 presso l’Università di Trieste e Dottorata in Fisica nel 2008 presso l’Università di Pavia, con tesi nell’ambito della Boron Neutron Capture Therapy (BNCT) dei tumori diffusi nel fegato e nel polmone. Nel 2015 consegue un Master in Open Innovation e Technology Transfer presso il Politecnico di Milano. Attualmente Ricercatore presso il Dipartimento di Fisica di UniPV, dove si occupa principalmente di sviluppare la BNCT con acceleratori di protoni. (<a href='https://www.researchgate.net/profile/Silva_Bortolussi' target='_blank'>ResearchGate</a>).
-  abstract: "La terapia per cattura neutronica sul boro: sfide e obiettivi per il prossimo futuro."
+  abstract: "La Boron Neutron Capture Therapy (BNCT) è una radioterapia sperimentale che consiste nell’irraggiamento neutronico del tumore. Si sviluppa in due fasi: arricchimento del tumore con Boro-10 e irraggiamento con neutroni di bassa energia. Il Boro-10 ha una sezione d’urto di cattura molto elevata, e le particelle emesse dalla reazione Boro-10(n,α)Litio-7 sono altamente ionizzanti e possono causare danni non riparabili al tumore. Grazie a opportuni farmaci è possibile concentrare il Boro-10 nelle cellule tumorali, in questo modo l'effetto dell'irraggiamento è letale solo per le cellule tumorali. Oggi è possibile ottenere fasci di neutroni adatti alla terapia, senza dover utilizzare un reattore nucleare, sfruttando un acceleratore di protoni. Un acceleratore adatto a questo scopo è stato progettato e costruito dall’INFN e stiamo attualmente lavorando per poterlo installare a CNAO."
   link:
 
 - nome: "Dott. Michele Prata"
@@ -57,61 +56,99 @@
   id: lascialfari
   uni: "Università degli Studi di Milano"
   img: "/img/speakers/lascialfari.jpg"
-  #title: "Titolo dell'incontro conferenza"
+  title: "Applicazioni del magnetismo in bio-medicina"
   bio: Alessandro Lascialfari è professore ordinario presso l'Università degli Studi di Milano. Tiene corsi a studenti di laurea magistrale e di dottorato presso i Corsi di Laurea in Fisica e Farmacia a Milano e a Pavia. E' autore o coautore di più di 200 articoli e nella sua attività di ricerca ha sfruttato tecniche di NMR, MuSR, SQUID, calorimetria, MRI, AFM e ipertermia magnetica. Ha ottenuto importanti risultati nello studio delle proprietà magnetiche e delle dinamiche di spin in superconduttori HTSC e in sistemi magnetici nanoscopici e con bassa dimensionalità.
-  #abstract: breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract
+  abstract: "I sistemi magnetici nano-strutturati sono attualmente fra i materiali più versatili e studiati per applicazioni nel campo della bio-medicina. Si presenteranno alcune applicazioni diagnostiche nel campo della Risonanza Magnetica per Immagini (MRI) ed altre di tipo terapeutico a base di ipertermia magnetica, eventualmente combinata con radioterapia. Nel campo della MRI, si introdurranno tecniche di rilassometria e di analisi di immagini utilizzate per lo studio dell’evoluzione di diverse patologie."
   link:
 
 - nome: "Prof.ssa Flavia Maria Groppi Garlandini"
   id: groppi
   uni: "Università degli Studi di Milano"
   img: "/img/speakers/groppi.jpg"
-  #title: "Titolo dell'incontro conferenza"
+  title: "Ottimizzazione della produzione di radionuclidi ad Alta Attività Specifica per applicazioni in medicina, tossicologia e nanotossicologia"
   bio: Flavia Maria Groppi Garlandini si è laureata in Fisica presso l'Università degli Studi di Milano nel 1983, dove nel 1986 ha conseguito anche la Specializzazione in Fisica Sanitaria ed Ospedaliera. La sua ricerca di base è incentrata sullo studio sistematico delle radiazioni indotte dalle interazioni tra ioni pesanti.
-  #abstract: breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract
+  abstract: "L'utilizzo dei radionuclidi gioca un ruolo fondamentale nella Life Science: tale impiego trova applicazione in Medicina Nucleare negli ambiti della diagnostica, della radioterapia e della recente disciplina che va sotto il nome di teranostica, in studi di tipo ambientale riguardanti la prolungata esposizione a contaminanti con concentrazioni estremamente basse, nonché in nanotossicologia. Per quanto riguarda la Medicina Nucleare, la possibilità di marcare farmaci, anticorpi monoclonali o frammenti di peptidi che siano specifici per i recettori delle cellule neoplastiche o dei corrispondenti antigeni, è una strategia estremamente interessante per trattare tali patologie; al tempo stesso i composti marcati, specifici per il target su cui intervenire, devono essere molto selettivi al fine di minimizzare la dose ai tessuti sani che circondano la zona malata. Si rende quindi necessario impiegare opportuni radionuclidi non convenzionali. Va quindi affinato un protocollo che preveda l’ottimizzazione della produzione ad alta attività specifica del radionuclide di interesse, in genere mediante l’impiego di acceleratori di particelle, e la messa a punto di opportune separazioni radiochimiche e di uno stringente sistema di controlli di qualità del prodotto ottenuto."
   link:
 
 - nome: "Prof. Giuseppe Battistoni"
   id: battistoni
   uni: "INFN - Sezione di Milano"
   img: "/img/speakers/battistoni.jpg"
-  #title: "Titolo dell'incontro conferenza"
+  title: "Introduzione all'adroterapia"
   bio: Giuseppe Battistoni ha conseguito la laurea in Fisica nel 1977 all'università di Roma, e dal 1990 fa parte del gruppo di sviluppo dei calorimetri per ATLAS nella sezione INFN di Milano. Nel 2001 ha contribuito allo sviluppo e diffusione del codice FLUKA per simulazioni Montecarlo, e lo ha utilizzato per lo studio della fisica dei raggi cosmici e dei neutrini, le interazioni adroniche e le loro applicazioni alla ricerca spaziale e alla medicina. Dal 2006 al 2012 è stato direttore della sezione INFN di Milano. Attualmente la sua ricerca verte su simulazioni FLUKA di adroterapia, che hanno contribuito a sviluppare nuovi sistemi di pianificazione del trattamento e monitoring on-line della terapia.
-  #abstract: breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract
+  abstract: "A partire dalla fine del XIX secolo, la fisica ha dato, e continua a dare, un grande contributo alla medicina. In particolare la fisica dei costituenti fondamentali della materia ha un ruolo di primissimo piano sia per la diagnostica che per la terapia. In questo intervento ci si vuole concentrare soprattutto su alcuni aspetti riguardanti la lotta ai tumori introducendo il tema dell'uso della radiazione ionizzante: la radioterapia oncologica, approccio che riguarda ogni anno milioni di pazienti in tutto il mondo. Negli ultimi decenni ci sono stati importanti sviluppi in questo settore. Tra questi c'è la cosiddetta adroterapia, ovvero la radioterapia che utilizza fasci di particelle adroniche, cioè soggette all'interazione nucleare forte: protoni o nuclei leggeri. Questa forma di cura presenta dei vantaggi importanti per alcune tipologie di tumori. E' un risultato che deriva dai progressi tecnologici dalla ricerca in fisica nucleare e delle particelle elementari, ma che fondamentalmente scaturisce dall'impegno di medici, fisici, biologi ed ingegneri ad unirsi in un lavoro di carattere fortemente interdisciplinare."
   link:
 
 - nome: "Dott. Ivan Veronese"
   id: veronese
   uni: "Università degli Studi di Milano"
   img: "/img/speakers/veronese.png"
-  #title: "Titolo dell'incontro conferenza"
+  title: "Uno sguardo alla dosimetria retrospettiva"
   bio: Ivan Veronese (12 maggio 1975) ha conseguito la laurea in Fisica nel marzo del 2000 e nel 2004 il dottorato il Fisica, Astrofisica e Fisica Applicata. Dal 2008 è Ricercatore Universitario (fisica applicata ai beni culturali, biologia e medicina) presso il Dipartimento di Fisica dell'Università degli Studi di Milano. Tra i campi di ricerca troviamo la radioprotezione e la dosimetria interna ed esterna con radiofarmaci e radioisotopi nei trattamenti radioterapici.
-  #abstract: breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract
+  abstract: La dosimetria retrospettiva ha svolto un ruolo importante nella interpretazione dei dati epidemiologici di coorti di popolazione esposte in passato a radiazioni ionizzanti, in primis i sopravvissuti delle esplosioni nucleari di Hiroshima e Nagasaki. Recentemente, visto il complesso scenario internazionale, l’interesse verso lo sviluppo di nuove metodologie per la ricostruzione della dose assorbita accidentalmente dalla popolazione si è amplificato, per effetto di possibili impieghi malevoli di sorgenti radioattive. In questo seminario, dopo aver presentato alcuni esempi di applicazione, saranno illustrate le ultime ricerche in questo settore."
+  link:
+
+- nome: "Dott.ssa Silvia Molinelli"
+  id: molinelli
+  uni: "CNAO"
+  #img: "/img/speakers/molinelli.jpg"
+  title: "Pianificazione del trattamento e simulazioni Monte Carlo in adroterapia"
+  bio: "Dopo la laurea in Fisica nel 2003 presso l’Università di Pavia, frequenta il dipartimento di fisica medica dell’Ospedale San Raffaele per il conseguimento della specializzazione in fisica medica all’Università di Milano nel 2007. Ottiene un MSc in Radio Biologia dall’University College di Londra con un progetto di ricerca svolto presso l’Erasmus medical center di Rotterdam. Lavora dal 2007 nell’unità di fisica medica di CNAO. Fa parte dal 2010 del gruppo docente del corso ESTRO “Physics for modern Radiotherapy”."
+  abstract: "Saranno descritti gli aspetti principali del processo di ottimizzazione dei piani di trattamento con fasci di protoni e ioni carbonio a scansione attiva, con riferimento a casi di terapia ‘adaptive’, gestione del respiro, trattamento oculare e valutazione della robustezza. L’utilizzo di simulazioni Monte Carlo rappresenta parte integrante della fase di pianificazione, come supporto alle misure di commissioning (e ottimizzazione della linea dedicata ai trattamenti oculari), riferimento per la valutazione di incertezze dosimetriche e nella definizione delle dosi biologiche."
+  link:
+
+- nome: "Dott. Silvia Barbieri, Mario Carante, Ian Postuma"
+  id: bcp
+  uni: "Università degli Studi di Pavia e INFN - Sezione di Pavia"
+  group:
+    - foto: "/img/speakers/barbieri.jpg"
+    - foto: "/img/speakers/carante.jpg"
+    - foto: "/img/speakers/postuma.jpg"
+  title: "Introduzione alla simulazione in ambito biosanitario"
+  bio: "Sofia Barbieri si è laureata in Scienze Fisiche nel 2015 e attualmente è dottoranda presso il Dipartimento di Fisica dell'Università di Pavia. L’attività di ricerca si focalizza sullo studio del danno sub-cellulare da diverse qualità delle radiazioni tramite attività sperimentale e simulazioni Monte Carlo, con sguardo alle radiazioni spaziali e all’adroterapia. <br> Mario Carante si è laureato in Fisica Nucleare e successivamente ha conseguito il dottorato di ricerca in Fisica Applicata nel 2017. È attualmente assegnista di ricerca nell’ambito dello studio teorico e della simulazione dei danni biologici delle radiazioni, con applicazioni in adroterapia. <br> Ian Postuma, dottore di ricerca in fisica applicata, attualmente assegnista di ricerca presso l’Istituto Nazionale di Fisica Nucleare di Pavia. Attivo nello sviluppo di una struttura clinica per la Boron Neutron Capture Therapy."
+  abstract: "Il metodo Monte Carlo (MC) è una tecnica ampiamente utilizzata in fisica medica. Attualmente i vari codici MC stanno vivendo un vero e propio boom grazie all’aumento della potenza di calcolo dei computer. Per la loro utilità anche centri importanti quali il CNAO sviluppano e utilizzano quotidianamente algoritmi MC per il trasporto di particelle cariche e non. Questo seminario vuole descrivere cos’è, come viene usato e quali possono essere le applicazioni future del MC in fisica medica. A presentare questo argomento, assieme alla loro ricerca, saranno 3 giovani ricercatori dell’università di Pavia e dell’Istituto Nazionale di Fisica Nucleare."
+
+- nome: "Dott.ssa Monica Necchi"
+  id: necchi
+  uni: "CNAO"
+  img: "/img/speakers/necchi.jpg"
+  title: "Fisica e alta tecnologia al Centro Nazionale di Adroterapia Oncologica"
+  bio: "Ha conseguito la laurea in Fisica e, successivamente, il dottorato di ricerca presso l’Università di Pavia, dedicandosi in particolare alle applicazioni biomediche della fisica, partecipando contemporaneamente all’esperimento CMS presso l’LHC del CERN dal 2004 al 2009. Da fine 2009 è ricercatore presso il Centro Nazionale di Adroterapia Oncologica e si occupa, in particolare, di progetti di ricerca nazionali ed europei. Dal 2015 è membro dello Steering Committee del Progetto ITN OMA, di cui è Project Manager. Tra le varie attività svolte, si sottolineano la divulgazione e la formazione per studenti della Scuola Media Superiore e delle Università."
+  abstract: "Il Centro Nazionale di Adroterapia Oncologica è nato con lo scopo di curare i tumori mediante l’impiego di protoni e di ioni carbonio. L’Alta Tecnologia del CNAO è formata da un insieme di macchine acceleratrici e linee di trasporto dei fasci di particelle. Un Centro di Adroterapia, tecnica d’avanguardia nella radioterapia dei tumori, non può fare a meno di svolgere attività di ricerca con la messa in esecuzione di progetti ed esperimenti in tutti i settori scientifici coinvolti dal Centro, con l’obiettivo strategico di un continuo miglioramento della terapia. A livello europeo molti progetti considerano CNAO come un partner in grado di fornire supporto tecnico e medico per realizzare Centri simili (e.g. Med-Austron)."
+  link:
+
+- nome: "Dott.ssa Angelica Facoetti"
+  id: facoetti
+  uni: "CNAO"
+  img: "/img/speakers/facoetti.jpg"
+  title: "Radiobiologia e attività clinica di CNAO"
+  bio: "Ha conseguito la laurea in Scienze Biologiche presso l’Università di Pavia nel 1999 e nel 2003 il dottorato di ricerca in biologia cellulare. Nel 2006 ha conseguito il MSc in Radio Biologia presso l’University College di Londra. Ha continuato a svolgere attività di ricerca in biologia cellulare e radiobiologia come post-doc e ricercatore a tempo determinato fino al 2010; successivamente ha ricoperto il ruolo di ricercatrice biologa presso CNAO, affiancando l’attività di ricerca all’attività didattica (Università di Pavia e di Milano). Si occupa delle tematiche di ricercata radiobiologica presso il Centro e collabora con il Dipartimento Clinico per la gestione e l’analisi dei dati clinici dei pazienti."
+  abstract: "Le proprietà fisiche e radiobiologiche degli adroni rendono tali fasci unici sia dal punto di vista di ricerca di base che dal punto di vista clinico. Dal 2014 CNAO tratta pazienti oncologici all’interno del Sistema Sanitario Nazionale; al momento sono stati trattati più di 1600 pazienti con patologie radioresistenti, adiacenti ad organi critici, recidive da precedenti trattamenti radianti e pediatrici. Diversi trial clinici multicentrici e internazionali sono iniziati e altri sono in fase di sviluppo."
   link:
 
 - nome: "Dott. Giorgio Baiocco"
   id: baiocco
   uni: "Università degli Studi di Pavia"
   img: "/img/speakers/baiocco.jpg"
-  #title: "Titolo dell'incontro conferenza"
+  title: "Dal DNA allo spazio: modelli biofisici multiscala, radiazione e salute"
   bio: Giorgio Baiocco ha ottenuto il dottorato di ricerca in Fisica nel 2012 presso l’Università di Bologna e l'Université de Caen-Basse Normandie (Caen, Francia). Dopo gli inizi in fisica nucleare, è attivo dal 2013 nella ricerca sugli effetti delle radiazioni sulle strutture biologiche, con applicazioni in radioterapia, radiodiagnostica e radioprotezione, in particolare in ambito spaziale. Attualmente occupa la posizione di ricercatore a tempo determinato nel gruppo di Radiobiologia e Biofisica delle Radiazioni (<a href="http://radbiophys.unipv.eu/" target="_blank">http://radbiophys.unipv.eu/</a>) presso il Dipartimento di Fisica dell’Università degli Studi di Pavia.
-  #abstract: breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract
+  abstract: Per lo studio delle interazioni della radiazione con la materia biologica ci si avvale di modelli biofisici che consentono di caratterizzare meccanismi di risposta ed effetti sulla salute a breve e a lungo termine (scala temporale), a livello (sub-)cellulare, di tessuto o organismo sottoposto all’ambiente di radiazione macroscopico (scala di organizzazione e spaziale). Tramite casi selezionati si discuterà di come questi modelli possono essere utilizzati ad esempio per l’ottimizzazione in radioterapia e per lo sviluppo di contromisure per la radioprotezione degli astronauti."
   link:
 
 - nome: "Prof. Paolo Milani"
   id: milani
   uni: "Università degli Studi di Milano"
   img: "/img/speakers/milani_profile.jpg"
-  #title: "Titolo dell'incontro conferenza"
+  title: "Nanotecnologie soffici per la medicina e la robotica"
   bio: Paolo Milani è Professore Ordinario presso il Dipartimento di Fisica dell'Universita' di Milano. Laureato in Fisica all'Universita' di Pavia nel 1984, ha conseguito il Dottorato in Fisica Applicata presso il Politecnico di Losanna nel 1991. E’ Direttore del Centro Interdisciplinare Materiali e Interfacce Nanostrutturati dell’Università di Milano. Svolge attività di ricerca nel campo dei materiali nanostrutturati per applicazioni in elettronica deformabile, sensoristica, biomedicina, robotica soffice.  E' European Regional Editor del Journal of Nanoparticle Research e Editor di Advances in Physics X. Ha fondato tre start-up attive in campo biomedico.
-  #abstract: breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract
+  abstract: "L'integrazione di nanoparticelle in matrici polimeriche mediante tecniche di micro fabbricazione è la base per la produzione di una nuova classe di dispositivi utilizzabili per neurostimolazione, robotica soffice, elettronica indossabile. Verrà presentata, in particolare, la realizzazione in ambito industriale di sistemi impiantabili basati su nanocompositi metallo-polimero per diagnosi e terapia di patologie neurologiche croniche."
   link:
 
 - nome: "Dott. Andrea Ciliberto"
   id: ciliberto
   uni: "IFOM"
   img: "/img/speakers/ciliberto.png"
-  #title: "Titolo dell'incontro conferenza"
+  title: "Impossibili da fermare: come e perché le cellule scappano dall'arresto della divisione cellulare"
   bio: Andrea Ciliberto ha studiato Scienze Biologiche presso l'Università di Firenze, dove si è laureato e poi ha conseguito il dottorato di ricerca in Scienze Genetiche. Fin dalla laurea si è interessato allo studio di sistemi biologici con gli strumenti della matematica. Ha perfezionato i suoi studi in questo campo, la biologia quantitativa, lavorando con John J. Tyson (Virgina Polytechnic Institute, USA) e Bela Novak (adesso all'Università di Oxford ma allora all'Università tecnica di Budapest, in Ungheria). Nel 2005 si è trasferito all'IFOM, dove ha aperto il suo gruppo di ricerca. Inizialmente ha lavorato allo sviluppo di modelli matematici sulla polimerizzazione dell'actina (in collaborazione con Giorgio Scita), sui meccanismi di segnalazione dell'epithelial growth factor (in collaborazione con Pier Paolo di Fiore), e su fenomeni legati alla divisione cellulare (in collaborazione con Rosella Visentin ed Andrea Musacchio, entrambi allo IEO).
   #abstract: breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract breve abstract
   link:

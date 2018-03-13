@@ -77,7 +77,7 @@ schedule:
         tag: svago
       - hour: "16:30 - 17:15"
         where: "Dipartimento di Fisica"
-        descr: "Fulvia PALESI <br>"
+        descr: "Fulvia PALESI <br> <i>Imaging di risonanza magnetica nelle neuroscienze</i>"
         id: speakers/#palesi
         tag: conf
       - hour: "17:15 - 18:45"
@@ -95,18 +95,18 @@ schedule:
     day_ex: Giovedì 22 marzo (Milano)
     short_descr: "Giornata a Milano: conferenze e visite"
     activity:
-      - hour: "8:00"
+      - hour: "7:30"
         where:
         descr: "Partenza per Milano in pullman"
         tag: svago
       - hour: "9:15 - 10:00"
         where: "Dipartimento di Fisica UniMi"
-        descr: "Alessandro LASCIALFARI"
+        descr: "Alessandro LASCIALFARI <br> <i>Applicazioni del magnetismo in bio-medicina</i>"
         tag: conf
         id: speakers/#lascialfari
       - hour: "10:00 - 10:45"
         where: "Dipartimento di Fisica UniMi"
-        descr: "Flavia Maria GROPPI GARLANDINI"
+        descr: "Flavia Maria GROPPI GARLANDINI <br> <i>Ottimizzazione della produzione di radionuclidi ad Alta Attività Specifica per applicazioni in medicina, tossicologia e nanotossicologia</i>"
         tag: conf
         id: speakers/#groppi
       - hour: "10:45 - 11:15"
@@ -115,12 +115,12 @@ schedule:
         tag: svago
       - hour: "11:15 - 12:00"
         where: "Dipartimento di Fisica UniMi"
-        descr: "Giuseppe BATTISTONI"
+        descr: "Giuseppe BATTISTONI <br> <i>Introduzione all'adroterapia</i>"
         tag: conf
         id: speakers/#battistoni
       - hour: "12:00 - 12:45"
         where: "Dipartimento di Fisica UniMi"
-        descr: "Ivan VERONESE"
+        descr: "Ivan VERONESE <br> <i>Uno sguardo alla dosimetria retrospettiva</i>"
         tag: conf
         id: speakers/#veronese
       - hour: "12:45 - 14:15"
@@ -158,10 +158,10 @@ schedule:
         map: https://goo.gl/maps/tQZpfpEg7nJ2
         id: facilities/#int
       - hour: "19:30 - 23:30"
-        where: "Sede Associazione Verbamanus"
-        descr: "Cena con delitto"
+        where: "Fabbrica Pizzeria"
+        descr: "Cena sociale"
         tag: sera
-        map: https://goo.gl/maps/spYCYF2s4ap
+        map: https://goo.gl/maps/NqrfB9yhPzK2
         id: serate/#delitto
       - hour: "23:30"
         where:
@@ -175,24 +175,28 @@ schedule:
     activity:
       - hour: "9:15 - 10:00"
         where: "Dipartimento di Fisica"
-        descr: "Silvia MOLINELLI"
+        descr: "Silvia MOLINELLI <br> <i>Pianificazione del trattamento e simulazioni Monte Carlo in adroterapia</i>"
         tag: conf
+        id: speakers/#molinelli
       - hour: "10:00 - 10:45"
         where: "Dipartimento di Fisica"
-        descr: "Conferenza introduttiva alla visita al CNAO"
+        descr: "Sofia BARBIERI, Mario CARANTE, Ian POSTUMA <br> <i>Introduzione alla simulazione in ambito sanitario</i>"
         tag: conf
+        id: speakers/#bcp
       - hour: "10:45 - 12:00"
         where: "Mensa"
         descr: "Pranzo"
         tag: svago
       - hour: "12:00 - 12:30"
         where: "Centro Nazionale di Adroterapia Oncologica"
-        descr: "Monica NECCHI <br><i>CNAO, un'eccellenza italiana</i>"
+        descr: "Monica NECCHI <br><i>Fisica e alta tecnologia al Centro Nazionale di Adroterapia Oncologica</i>"
         tag: conf
+        id: speakers/#necchi
       - hour: "12:00 - 12:30"
         where: "Centro Nazionale di Adroterapia Oncologica"
-        descr: "Angelica FACOETTI <br><i>Attività clinica e radiobiologica in CNAO</i>"
+        descr: "Angelica FACOETTI <br><i>Radiobiologia e attività clinica di CNAO</i>"
         tag: conf
+        id: speakers/#facoetti
       - hour: "13:00 - 14:30"
         where: "Centro Nazionale di Adroterapia Oncologica"
         descr: "Visita<br><b>Centro Nazionale di Adroterapia Oncologica (CNAO)</b>"
@@ -205,7 +209,7 @@ schedule:
         tag: svago
       - hour: "15:00 - 15:45"
         where: "Dipartimento di Fisica"
-        descr: "Giorgio BAIOCCO"
+        descr: "Giorgio BAIOCCO <br> <i>Dal DNA allo spazio: modelli biofisici multiscala, radiazione e salute</i>"
         tag: conf
         id: speakers/#baiocco
       - hour: "16:00 - 18:00"
@@ -220,28 +224,28 @@ schedule:
   - day: Sab 24
     date: "240318"
     day_ex: Sabato 24 marzo (Pavia)
-    short_descr: "Poster session e chiusura lavori"
+    short_descr: "Conferenze, poster session e chiusura lavori"
     activity:
       - hour: "9:00 - 9:45"
         where: "Università di Pavia - Sede Centrale"
-        descr: "Paolo MILANI"
+        descr: "Paolo MILANI <br> <i>Nanotecnologie soffici per la medicina e la robotica</i>"
         tag: conf
         id: speakers/#milani
         map: https://goo.gl/maps/YCjHzYP8BhP2
       - hour: "9:45 - 10:30"
         where: "Università di Pavia - Sede Centrale"
-        descr: "Andrea CILIBERTO"
+        descr: "Andrea CILIBERTO <br> <i>Impossibili da fermare: come e perchè le cellule scappano dall’arresto della divisione cellulare</i>"
         tag: conf
         id: speakers/#ciliberto
         map: https://goo.gl/maps/YCjHzYP8BhP2
       - hour: "10:30 - 11:00"
         where: "Università di Pavia - Sede Centrale"
-        descr: "Coffee Break"
-        tag: svago
+        descr: "Presentazione <b>AIFM</b> <br> (<i>Associazione Italiana Fisica Medica</i>)"
+        tag: conf
         map: https://goo.gl/maps/YCjHzYP8BhP2
       - hour: "11:00 - 13:00"
         where: "Università di Pavia - Sede Centrale"
-        descr: "Poster session <br> Pillole di scienza"
+        descr: "Poster&Coffee session <br> <i> Pillole di scienza</i>"
         tag: studenti
         map: https://goo.gl/maps/YCjHzYP8BhP2
       - hour: "13:00 - 14:00"
@@ -249,6 +253,10 @@ schedule:
         descr: "Pranzo"
         tag: svago
         map: https://goo.gl/maps/X4iNxsPAH1B2
+      - hour: "14:00 - 15:00"
+        where:
+        descr: "Cerimonia di chiusura"
+        tag:
 
 few_info:
   info: ""
