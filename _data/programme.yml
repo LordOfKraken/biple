@@ -42,7 +42,7 @@ schedule:
     day_ex: Mercoledì 21 marzo (Pavia)
     short_descr: "Visita al L.E.N.A., conferenze e talk studenti"
     activity:
-      - hour: "9:15 - 10:00"
+      - hour: "9:00 - 10:00"
         where: "Dipartimento di Fisica"
         descr: "Alberto TORRESIN <br> <i>Tecniche di imaging per la diagnostica e la terapia in ambito sanitario</i>"
         id: speakers/#torresin
@@ -192,7 +192,7 @@ schedule:
         descr: "Monica NECCHI <br><i>Fisica e alta tecnologia al Centro Nazionale di Adroterapia Oncologica</i>"
         tag: conf
         id: speakers/#necchi
-      - hour: "12:00 - 12:30"
+      - hour: "12:30 - 13:00"
         where: "Centro Nazionale di Adroterapia Oncologica"
         descr: "Angelica FACOETTI <br><i>Radiobiologia e attività clinica di CNAO</i>"
         tag: conf
