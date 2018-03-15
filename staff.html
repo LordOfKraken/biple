@@ -1,0 +1,29 @@
+---
+layout: page
+title: Staff
+---
+
+<div class="row">
+	{% for item in site.data.staff %}
+<div class="col s12 m3">
+	 <div class="card horizontal">
+		 <div class="card-image">
+			 <img src="{{ site.url }}/{{ item.img }}">
+		 </div>
+		 <div class="card-stacked">
+			 <div class="card-content">
+				 <p style="color:{{site.data.generic.color1}}">{{ item.nome }}</p>
+				 <span>{{ item.studio }}</span>
+		 			<br>
+					<span>{{ item.uni }}</span>
+					<br>
+		 			<span><i>{{ item.ruolo }}</i></span>
+			 </div>
+			 <!-- <div class="card-action">
+				 <a href="#">This is a link</a>
+			 </div> -->
+		 </div>
+	 </div>
+ </div>
+ {% endfor %}
+</div>

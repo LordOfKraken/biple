@@ -12,6 +12,8 @@
   url: programme
 - text: Registrazione
   url: registration
+- text: Staff
+  url: staff
 - text: Supporter
   url: sponsors
 - text: AISF

@@ -1,0 +1,17 @@
+- nome: "Federico Andrea Sabattoli"
+  img: "img/staff/sabattoli.jpg"
+  studio: "Dottorato"
+  uni: "Università degli Studi di Pavia"
+  ruolo: "Coordinatore organizzazione"
+
+- nome: "Emilio Villa"
+  img: "img/staff/villa.jpg"
+  studio: "Laurea Magistrale"
+  uni: "Università degli Studi di Milano"
+  ruolo: "Coordinatore organizzazione"
+
+#- nome: "Linda Bianchini"
+#  img: "img/staff/bianchini.jpg"
+#  studio: "Dottorato"
+#  uni: "Università degli Studi di Milano"
+#  ruolo: "Coordinatrice scientifica"
