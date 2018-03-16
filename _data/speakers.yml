@@ -91,7 +91,7 @@
 - nome: "Dott.ssa Silvia Molinelli"
   id: molinelli
   uni: "CNAO"
-  #img: "/img/speakers/molinelli.jpg"
+  img: "/img/speakers/molinelli.jpg"
   title: "Pianificazione del trattamento e simulazioni Monte Carlo in adroterapia"
   bio: "Dopo la laurea in Fisica nel 2003 presso l’Università di Pavia, frequenta il dipartimento di fisica medica dell’Ospedale San Raffaele per il conseguimento della specializzazione in fisica medica all’Università di Milano nel 2007. Ottiene un MSc in Radio Biologia dall’University College di Londra con un progetto di ricerca svolto presso l’Erasmus medical center di Rotterdam. Lavora dal 2007 nell’unità di fisica medica di CNAO. Fa parte dal 2010 del gruppo docente del corso ESTRO “Physics for modern Radiotherapy”."
   abstract: "Saranno descritti gli aspetti principali del processo di ottimizzazione dei piani di trattamento con fasci di protoni e ioni carbonio a scansione attiva, con riferimento a casi di terapia ‘adaptive’, gestione del respiro, trattamento oculare e valutazione della robustezza. L’utilizzo di simulazioni Monte Carlo rappresenta parte integrante della fase di pianificazione, come supporto alle misure di commissioning (e ottimizzazione della linea dedicata ai trattamenti oculari), riferimento per la valutazione di incertezze dosimetriche e nella definizione delle dosi biologiche."
