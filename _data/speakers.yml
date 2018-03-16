@@ -25,13 +25,13 @@
   abstract: "Una delle principali applicazioni moderne della fisica sanitaria è la creazione di immagini mediche del corpo umano; si intende, come immagine medica, la rappresentazione, su adeguato supporto, della distribuzione di proprietà fisiche o fisico-chimiche del corpo umano o di una sua parte, ottenute sfruttando l’interazione fra un agente fisico e il corpo umano. Gli agenti fisici utilizzati per creare immagini mediche sono i Raggi X e la radioattività. L’avanzamento degli studi scientifici sta permettendo di trovare nuove soluzione per comprendere dove sono e come sono definibili le patologie e come distruggere la parti del corpo umano che si comportano in modo patologico. L’insieme delle diverse immagini mediche sono ormai indispensabili per capire quali patologie sono presenti nell’organismo e dove sono localizzate; tali informazioni sono indispensabile per adottare le idonee strategie terapeutiche per eliminare i tessuti patologici e guarire gli organismi umani. Nel corso del seminario verranno illustrati due esempi in cui, attraverso le immagini, si riesce a identificare dove sono le patologie, in genere dei tumori visibili con le immagini, e a distruggerli attraverso l’asportazione chirurgica guidata dalle immagine o distruggendo i tessuti tumorali con le radiazioni. Verrà infine descritto quale sia lo stato dell’arte della fisica applicata per il trattamento di tumori utilizzando sia l’imaging che gli acceleratori lineari per trattamenti di radioterapia."
   link:
 
-- nome: "Dott.ssa Fulvia Palesi"
-  id: palesi
-  uni: "IRCCS Fondazione Mondino - Università degli Studi di Pavia"
-  img: "/img/speakers/palesi.jpg"
-  title: "Imaging di risonanza magnetica nelle neuroscienze"
-  bio: Laureata in Fisica Biosanitaria nel 2008 presso l'Università degli Studi di Pavia con un lavoro di tesi svolto presso l'IRCCS Fondazione Mondino nell'ambito dell'imaging di risonanza magnetica applicata a pazienti affetti da HIV. Nel 2012 consegue il Dottorato di Ricerca in Fisica presso l'Università degli Studi di Pavia, con curriculum in Fisica Applicata. Dal 2012 al 2017 Assegnista di Ricerca nell’ambito dell’imaging di risonanza magnetica in patologie neurologiche. Nel 2017 entra nello staff dell'IRCCS Mondino in cui attualmente ricopre l’incarico di ricercatrice.
-  abstract: "Agli anni '70 risalgono i primi esperimenti che permisero di ottenere immagini di oggetti utilizzando il principio di risonanza magnetica nucleare. Ad oggi, questa è una delle tecniche di generazione di immagini maggiormente utilizzate in campo medico per la diagnosi clinica. Nella prima parte del seminario verranno presentati i principi di un esperimento di imaging di risonanza magnetica, mentre la seconda parte tratterà della sua applicazione in campo neurologico spaziando tra le attività di ricerca che permettono lo studio della funzione e della struttura cerebrale."
+- nome: "Dott. Michele Prata"
+  id: prata
+  bio: Laureato in Fisica nel 1999 presso l’Università degli Studi di Pavia con un lavoro di tesi di strumentazione nell’ambito dell’esperimento ATLAS. Nel 2003 consegue il Dottorato di Ricerca in Fisica presso l’Università degli Studi di Pavia, con curriculum di Fisica Nucleare e Subnucleare. Dal 2003 al 2005 Assegnista di Ricerca INFN nell’ambito dell’esperimento ICARUS. Nel 2006 entra nello staff del LENA dove attualmente ricopre l’incarico di Direttore Tecnico di Impianto Nucleare di Ricerca e Responsabile del Servizio di Fisica Sanitaria. (<a href='https://www.researchgate.net/profile/Michele_Prata' target='_blank'>ResearchGate</a>)
+  uni: L.E.N.A. Laboratorio Energia Nucleare Applicata - Università degli Studi di Pavia
+  img: "/img/speakers/prata.jpg"
+  title: "Quel nucleare (buono) nel cuore di Pavia"
+  abstract: "15 novembre 1965: il reattore TRIGA Mark II del LENA raggiunge la sua prima criticità. A Pavia si era appena accesa la fiaccola della luce di Cherenkov che a tutt'oggi, a distanza di oltre  50  anni,  illumina  il  nocciolo  del  TRIGA  ad ogni  criticità  superiore  ai  100  kW e, nel  suo piccolo, quel che resta del nucleare italiano. Nella prima parte del seminario verranno illustrati i principi di funzionamento di un reattore nucleare di ricerca, mentre nella seconda parte sarà dato ampio spazio alle principali attività di ricerca al LENA con campi neutronici."
   link:
 
 - nome: "Dott.ssa Silva Bortolussi"
@@ -43,13 +43,22 @@
   abstract: "La Boron Neutron Capture Therapy (BNCT) è una radioterapia sperimentale che consiste nell’irraggiamento neutronico del tumore. Si sviluppa in due fasi: arricchimento del tumore con Boro-10 e irraggiamento con neutroni di bassa energia. Il Boro-10 ha una sezione d’urto di cattura molto elevata, e le particelle emesse dalla reazione Boro-10(n,α)Litio-7 sono altamente ionizzanti e possono causare danni non riparabili al tumore. Grazie a opportuni farmaci è possibile concentrare il Boro-10 nelle cellule tumorali, in questo modo l'effetto dell'irraggiamento è letale solo per le cellule tumorali. Oggi è possibile ottenere fasci di neutroni adatti alla terapia, senza dover utilizzare un reattore nucleare, sfruttando un acceleratore di protoni. Un acceleratore adatto a questo scopo è stato progettato e costruito dall’INFN e stiamo attualmente lavorando per poterlo installare a CNAO."
   link:
 
-- nome: "Dott. Michele Prata"
-  id: prata
-  bio: Laureato in Fisica nel 1999 presso l’Università degli Studi di Pavia con un lavoro di tesi di strumentazione nell’ambito dell’esperimento ATLAS. Nel 2003 consegue il Dottorato di Ricerca in Fisica presso l’Università degli Studi di Pavia, con curriculum di Fisica Nucleare e Subnucleare. Dal 2003 al 2005 Assegnista di Ricerca INFN nell’ambito dell’esperimento ICARUS. Nel 2006 entra nello staff del LENA dove attualmente ricopre l’incarico di Direttore Tecnico di Impianto Nucleare di Ricerca e Responsabile del Servizio di Fisica Sanitaria. (<a href='https://www.researchgate.net/profile/Michele_Prata' target='_blank'>ResearchGate</a>)
-  uni: L.E.N.A. Laboratorio Energia Nucleare Applicata - Università degli Studi di Pavia
-  img: "/img/speakers/prata.jpg"
-  title: "Quel nucleare (buono) nel cuore di Pavia"
-  abstract: "15 novembre 1965: il reattore TRIGA Mark II del LENA raggiunge la sua prima criticità. A Pavia si era appena accesa la fiaccola della luce di Cherenkov che a tutt'oggi, a distanza di oltre  50  anni,  illumina  il  nocciolo  del  TRIGA  ad ogni  criticità  superiore  ai  100  kW e, nel  suo piccolo, quel che resta del nucleare italiano. Nella prima parte del seminario verranno illustrati i principi di funzionamento di un reattore nucleare di ricerca, mentre nella seconda parte sarà dato ampio spazio alle principali attività di ricerca al LENA con campi neutronici."
+- nome: "Dott.ssa Fulvia Palesi"
+  id: palesi
+  uni: "IRCCS Fondazione Mondino - Università degli Studi di Pavia"
+  img: "/img/speakers/palesi.jpg"
+  title: "Imaging di risonanza magnetica nelle neuroscienze"
+  bio: Laureata in Fisica Biosanitaria nel 2008 presso l'Università degli Studi di Pavia con un lavoro di tesi svolto presso l'IRCCS Fondazione Mondino nell'ambito dell'imaging di risonanza magnetica applicata a pazienti affetti da HIV. Nel 2012 consegue il Dottorato di Ricerca in Fisica presso l'Università degli Studi di Pavia, con curriculum in Fisica Applicata. Dal 2012 al 2017 Assegnista di Ricerca nell’ambito dell’imaging di risonanza magnetica in patologie neurologiche. Nel 2017 entra nello staff dell'IRCCS Mondino in cui attualmente ricopre l’incarico di ricercatrice.
+  abstract: "Agli anni '70 risalgono i primi esperimenti che permisero di ottenere immagini di oggetti utilizzando il principio di risonanza magnetica nucleare. Ad oggi, questa è una delle tecniche di generazione di immagini maggiormente utilizzate in campo medico per la diagnosi clinica. Nella prima parte del seminario verranno presentati i principi di un esperimento di imaging di risonanza magnetica, mentre la seconda parte tratterà della sua applicazione in campo neurologico spaziando tra le attività di ricerca che permettono lo studio della funzione e della struttura cerebrale."
+  link:
+
+- nome: "Dott.ssa Marialuisa Tognolina"
+  id: tognolina
+  uni: "Università degli Studi di Pavia"
+  img: "/img/speakers/tognolina.jpg"
+  title: "Microscopia di fluorescenza con eccitazione a due fotoni per lo studio dell’attività neuronale"
+  bio:
+  abstract: "La microscopia di fluorescenza con eccitazione a due fotoni si è sviluppata recentemente come valida alternativa alla microscopia tradizionale, consentendo di penetrare in profondità nei campioni, restituendo immagini nitide e precise della disposizione delle cellule e limitando danni ai tessuti. Allo scopo di monitorare l’attività di più neuroni contemporaneamente, abbiamo sviluppato un innovativo microscopio a due fotoni che, tramite uno spatial light modulator (SLM), permette di eccitare simultaneamente diversi punti di interesse arbitrariamente selezionati e di acquisire segnali ad alta risoluzione temporale. Questo metodo è stato impiegato per esperimenti di imaging di calcio su tessuto cerebellare"
   link:
 
 - nome: "Prof. Alessandro Lascialfari"
@@ -88,15 +97,6 @@
   abstract: La dosimetria retrospettiva ha svolto un ruolo importante nella interpretazione dei dati epidemiologici di coorti di popolazione esposte in passato a radiazioni ionizzanti, in primis i sopravvissuti delle esplosioni nucleari di Hiroshima e Nagasaki. Recentemente, visto il complesso scenario internazionale, l’interesse verso lo sviluppo di nuove metodologie per la ricostruzione della dose assorbita accidentalmente dalla popolazione si è amplificato, per effetto di possibili impieghi malevoli di sorgenti radioattive. In questo seminario, dopo aver presentato alcuni esempi di applicazione, saranno illustrate le ultime ricerche in questo settore."
   link:
 
-- nome: "Dott.ssa Silvia Molinelli"
-  id: molinelli
-  uni: "CNAO"
-  img: "/img/speakers/molinelli.jpg"
-  title: "Pianificazione del trattamento e simulazioni Monte Carlo in adroterapia"
-  bio: "Dopo la laurea in Fisica nel 2003 presso l’Università di Pavia, frequenta il dipartimento di fisica medica dell’Ospedale San Raffaele per il conseguimento della specializzazione in fisica medica all’Università di Milano nel 2007. Ottiene un MSc in Radio Biologia dall’University College di Londra con un progetto di ricerca svolto presso l’Erasmus medical center di Rotterdam. Lavora dal 2007 nell’unità di fisica medica di CNAO. Fa parte dal 2010 del gruppo docente del corso ESTRO “Physics for modern Radiotherapy”."
-  abstract: "Saranno descritti gli aspetti principali del processo di ottimizzazione dei piani di trattamento con fasci di protoni e ioni carbonio a scansione attiva, con riferimento a casi di terapia ‘adaptive’, gestione del respiro, trattamento oculare e valutazione della robustezza. L’utilizzo di simulazioni Monte Carlo rappresenta parte integrante della fase di pianificazione, come supporto alle misure di commissioning (e ottimizzazione della linea dedicata ai trattamenti oculari), riferimento per la valutazione di incertezze dosimetriche e nella definizione delle dosi biologiche."
-  link:
-
 - nome: "Dott. Sofia Barbieri, Mario Carante, Ian Postuma"
   id: bcp
   uni: "Università degli Studi di Pavia e INFN - Sezione di Pavia"
@@ -107,6 +107,15 @@
   title: "Introduzione alla simulazione in ambito biosanitario"
   bio: "Sofia Barbieri si è laureata in Scienze Fisiche nel 2015 e attualmente è dottoranda presso il Dipartimento di Fisica dell'Università di Pavia. L’attività di ricerca si focalizza sullo studio del danno sub-cellulare da diverse qualità delle radiazioni tramite attività sperimentale e simulazioni Monte Carlo, con sguardo alle radiazioni spaziali e all’adroterapia. <br> Mario Carante si è laureato in Fisica Nucleare e successivamente ha conseguito il dottorato di ricerca in Fisica Applicata nel 2017. È attualmente assegnista di ricerca nell’ambito dello studio teorico e della simulazione dei danni biologici delle radiazioni, con applicazioni in adroterapia. <br> Ian Postuma, dottore di ricerca in fisica applicata, attualmente assegnista di ricerca presso l’Istituto Nazionale di Fisica Nucleare di Pavia. Attivo nello sviluppo di una struttura clinica per la Boron Neutron Capture Therapy."
   abstract: "Il metodo Monte Carlo (MC) è una tecnica ampiamente utilizzata in fisica medica. Attualmente i vari codici MC stanno vivendo un vero e propio boom grazie all’aumento della potenza di calcolo dei computer. Per la loro utilità anche centri importanti quali il CNAO sviluppano e utilizzano quotidianamente algoritmi MC per il trasporto di particelle cariche e non. Questo seminario vuole descrivere cos’è, come viene usato e quali possono essere le applicazioni future del MC in fisica medica. A presentare questo argomento, assieme alla loro ricerca, saranno 3 giovani ricercatori dell’università di Pavia e dell’Istituto Nazionale di Fisica Nucleare."
+
+- nome: "Dott.ssa Silvia Molinelli"
+  id: molinelli
+  uni: "CNAO"
+  img: "/img/speakers/molinelli.jpg"
+  title: "Pianificazione del trattamento e simulazioni Monte Carlo in adroterapia"
+  bio: "Dopo la laurea in Fisica nel 2003 presso l’Università di Pavia, frequenta il dipartimento di fisica medica dell’Ospedale San Raffaele per il conseguimento della specializzazione in fisica medica all’Università di Milano nel 2007. Ottiene un MSc in Radio Biologia dall’University College di Londra con un progetto di ricerca svolto presso l’Erasmus medical center di Rotterdam. Lavora dal 2007 nell’unità di fisica medica di CNAO. Fa parte dal 2010 del gruppo docente del corso ESTRO “Physics for modern Radiotherapy”."
+  abstract: "Saranno descritti gli aspetti principali del processo di ottimizzazione dei piani di trattamento con fasci di protoni e ioni carbonio a scansione attiva, con riferimento a casi di terapia ‘adaptive’, gestione del respiro, trattamento oculare e valutazione della robustezza. L’utilizzo di simulazioni Monte Carlo rappresenta parte integrante della fase di pianificazione, come supporto alle misure di commissioning (e ottimizzazione della linea dedicata ai trattamenti oculari), riferimento per la valutazione di incertezze dosimetriche e nella definizione delle dosi biologiche."
+  link:
 
 - nome: "Dott.ssa Monica Necchi"
   id: necchi

@@ -80,7 +80,12 @@ schedule:
         descr: "Fulvia PALESI <br> <i>Imaging di risonanza magnetica nelle neuroscienze</i>"
         id: speakers/#palesi
         tag: conf
-      - hour: "17:15 - 18:45"
+      - hour: "17:15 - 18:00"
+        where: "Dipartimento di Fisica"
+        descr: "Marialuisa TOGNOLINA <br> <i>Microscopia di fluorescenza con eccitazione a due fotoni per lo studio dell’attività neuronale</i>"
+        id: speakers/#tognolina
+        tag: conf
+      - hour: "18:00 - 19:00"
         where: "Dipartimento di Fisica"
         descr: "Talk studenti"
         tag: studenti

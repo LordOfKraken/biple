@@ -26,10 +26,12 @@ Le conferenze si svolgeranno sia a Milano sia a Pavia. Saranno tenute da docenti
     <span>
       <i>{{ item.uni }}</i>
     </span>
-    <p style="text-align:justify">
+  	<br>
+		{% if item.bio != nihil %}
+		<p style="text-align:justify">
       {{ item.bio }}
-      <br>
     </p>
+		{% endif %}
 		<br>
 		{% if item.title != nil %}
     <p style="color:{{site.data.generic.color1}}"><b>{{item.title}}</b></p>
@@ -60,3 +62,12 @@ Nel corso dell’evento i partecipanti avranno l’opportunità di esporre agli 
 
 <h2>Sessione poster</h2>
 Una poster session sarà organizzata in modo da permettere ai ricercatori e ai dottorandi dei Dipartimenti di Fisica di Pavia e di Milano, ma anche dei Centri di Ricerca locali, di esporre la propria attività di ricerca o di approfondire alcune tematiche presentate durante le conferenze.
+
+<ul class="collection">
+	{% for item in site.data.poster %}
+	<li class="collection-item">
+		<b>{{ item.name }}</b> - <i>{{ item.uni }}</i>
+		<p style="text-align:justify">{{ item.poster }}</p>
+	</li>
+	{% endfor %}
+</ul>
