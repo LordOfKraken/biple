@@ -175,39 +175,39 @@ schedule:
     activity:
       - hour: "9:15 - 10:00"
         where: "Dipartimento di Fisica"
-        descr: "Silvia MOLINELLI <br> <i>Pianificazione del trattamento e simulazioni Monte Carlo in adroterapia</i>"
-        tag: conf
-        id: speakers/#molinelli
-      - hour: "10:00 - 10:45"
-        where: "Dipartimento di Fisica"
         descr: "Sofia BARBIERI, Mario CARANTE, Ian POSTUMA <br> <i>Introduzione alla simulazione in ambito sanitario</i>"
         tag: conf
         id: speakers/#bcp
-      - hour: "10:45 - 12:00"
-        where: "Mensa"
-        descr: "Pranzo"
+      - hour: "10:00 - 10:45"
+        where: "Dipartimento di Fisica"
+        descr: "Silvia MOLINELLI <br> <i>Pianificazione del trattamento e simulazioni Monte Carlo in adroterapia</i>"
+        tag: conf
+        id: speakers/#molinelli
+      - hour: "10:45 - 11:15"
+        where: "Dipartimento di Fisica"
+        descr: "Coffee Break"
         tag: svago
-      - hour: "12:00 - 12:30"
+      - hour: "11:30 - 12:00"
         where: "Centro Nazionale di Adroterapia Oncologica"
         descr: "Monica NECCHI <br><i>Fisica e alta tecnologia al Centro Nazionale di Adroterapia Oncologica</i>"
         tag: conf
         id: speakers/#necchi
-      - hour: "12:30 - 13:00"
+      - hour: "12:00 - 12:30"
         where: "Centro Nazionale di Adroterapia Oncologica"
         descr: "Angelica FACOETTI <br><i>Radiobiologia e attività clinica di CNAO</i>"
         tag: conf
         id: speakers/#facoetti
-      - hour: "13:00 - 14:30"
+      - hour: "12:30 - 14:00"
         where: "Centro Nazionale di Adroterapia Oncologica"
         descr: "Visita<br><b>Centro Nazionale di Adroterapia Oncologica (CNAO)</b>"
         tag: visit
         map: https://goo.gl/maps/1t1iNQmZ8ez
         id: facilities/#cnao
-      - hour: "14:30 - 15:00"
-        where: "Dipartimento di Fisica"
-        descr: "Coffee Break"
+      - hour: "14:00 - 15:00"
+        where: "Mensa"
+        descr: "Pranzo"
         tag: svago
-      - hour: "15:00 - 15:45"
+      - hour: "15:15 - 16:00"
         where: "Dipartimento di Fisica"
         descr: "Giorgio BAIOCCO <br> <i>Dal DNA allo spazio: modelli biofisici multiscala, radiazione e salute</i>"
         tag: conf
